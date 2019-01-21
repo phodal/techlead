@@ -1,12 +1,32 @@
 # Tech Lead Toolbox
 
-A toolbox collection for better tech laed
+> A toolbox collection for better tech lead of Phodal
 
 ## By [@phodal](https://github.com/phodal)
 
  - [TechStack](https://github.com/phodal/techstack) - A Radar for Projects' Toolbox
  - [ADR](https://github.com/phodal/adr) - Architecture Decision Records in Node.js with Reporter, supported Windows, GNU/Linux, macOS.
  - [TLA](https://github.com/phodal/tla) - Tech Lead Assessments Radar
+
+## Todo
+
+ - Path TO Production Tools
+ - People in Project Analyase
+ - Tech Debt Wall
+
+### DSL Stiker
+
+ - Sticker Helper
+ - FURTHER ANALYSIS
+ - Flow Track Tools
+
+## Tech Tools
+
+### C4 Model
+
+
+## Communications
+
 
 
 License
