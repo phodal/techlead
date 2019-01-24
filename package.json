@@ -1,0 +1,24 @@
+{
+  "name": "tltools",
+  "version": "0.0.1",
+  "description": "A Toolbox for Tech Lead",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/phodal/tltools.git"
+  },
+  "keywords": [
+    "toolbox",
+    "tech",
+    "lead"
+  ],
+  "author": "Phodal HUANG",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/phodal/tltools/issues"
+  },
+  "homepage": "https://github.com/phodal/tltools#readme"
+}
