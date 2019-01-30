@@ -4,6 +4,7 @@
 
 > A toolbox for better tech lead of Phodal
 
+![Tech Lead Actions](assets/tech-action-project.jpg)
 
 Todos:
 
