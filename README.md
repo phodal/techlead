@@ -2,9 +2,36 @@
 
 **The origin Tech Lead articles is need to delete. And now I working on build the tools, welcome to join us.**
 
-> A toolbox collection for better tech lead of Phodal
+> A toolbox for better tech lead of Phodal
 
-## By [@phodal](https://github.com/phodal)
+
+Todos:
+
+**Soft Skills**
+
+ - Team Development Model
+ - Scenario Leadership Model
+
+**Team**
+
+ - Flow
+ - Sweet Spot
+ - Culture Checklists
+
+**Dev Skills**
+
+ - Dev Skills Checklists
+
+**Leadership**
+
+ - Thomas-Kilmann Conflict Theory 
+ - CHAMPFROGS Model
+ - Cone of uncertainty
+ - Stakeholder Mapping
+ - Six principles of influence
+ - Join New Team
+
+## Tech Toolbox
 
 ### [ADR](https://github.com/phodal/adr) - Architecture Decision Records in Node.js with Reporter, supported Windows, GNU/Linux, macOS.
 
@@ -21,25 +48,6 @@
 ### [TechStack](https://github.com/phodal/techstack) - A Radar for Projects' Toolbox
 
 ![Screenshot](http://phodal.github.io/techstack/screenshot.jpg)
-
-## Todo
-
- - People in Project Analyase
- - Tech Debt Wall
-
-### DSL Stiker
-
- - Sticker Helper
- - FURTHER ANALYSIS
- - Flow Track Tools
-
-## Tech Tools
-
-### C4 Model
-
-
-## Communications
-
 
 
 License
