@@ -72,6 +72,39 @@ Tech Lead 可以是一个纯粹的技术岗位，有的则还要充当项目经�
 
 ![Screenshot](http://phodal.github.io/techstack/screenshot.jpg)
 
+## Leadership Theory
+
+### Motivation: CHAMPFROGS Model
+
+![Motivation](assets/motivators.jpg)
+
+### Risk Management: Cone of Uncertainty
+
+![Cone of Uncertainty](assets/cone-of-uncertainty-for-powerpoint.jpg)
+
+### Scenario Leadership Model
+
+![Scenario Leadership Model](assets/situational-leadership-model.png)
+
+### Team Development Model
+
+![Team Development Model](assets/states-of-group.png)
+
+### Conflict Management: Thomas-Kilmann Conflict Theory 
+
+![TKI](assets/tki.jpg)
+
+### Six principles of influence
+
+![Six principles of influence](assets/influence.gif)
+
+### Stakeholder Mapping
+
+![Stakeholder Analyse](assets/stakeholder-mapping.jpg)
+
+### Flow
+
+![Flow](assets/flow.png)
 
 License
 ---
