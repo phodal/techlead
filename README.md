@@ -1,5 +1,7 @@
 # Tech Lead Toolbox
 
+**The origin Tech Lead articles is need to delete. And now I working on build the tools, welcome to join us.**
+
 > A toolbox collection for better tech lead of Phodal
 
 ## By [@phodal](https://github.com/phodal)
