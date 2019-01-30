@@ -1,10 +1,10 @@
 # Tech Lead Toolbox
 
-**The origin Tech Lead articles is need to delete. And now I working on build the tools, welcome to join us.**
+**The origin Tech Lead articles is need to delete. And now I working on build the tools for Tech Lead, welcome to join us.**
 
 > A toolbox for better tech lead of Phodal
 
-![Tech Lead Actions](assets/tech-action-project.jpg)
+![Tech Lead Actions](assets/tech-action-project.svg)
 
 Todos:
 

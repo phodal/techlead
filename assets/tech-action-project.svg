@@ -1,0 +1,218 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="1315px" height="864px" viewBox="0 0 1315 864" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.6 (67491) - http://www.bohemiancoding.com/sketch -->
+    <title>tech-action-project</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <text id="Seed-Project" font-family="PingFangSC-Regular, PingFang SC" font-size="14" font-weight="normal" fill="#000000">
+            <tspan x="358" y="424">Seed Project</tspan>
+        </text>
+        <path id="Line" d="M154,119.5 L344,119.5 L344,114.5 L344,113.5 L346,113.5 L346,114.5 L346,126.5 L346,127.5 L344,127.5 L344,126.5 L344,121.5 L154,121.5 L154,126.5 L154,127.5 L152,127.5 L152,126.5 L152,114.5 L152,113.5 L154,113.5 L154,114.5 L154,119.5 Z" fill="#979797" fill-rule="nonzero"></path>
+        <path id="Line" d="M154.000224,137.791132 L719.999563,137.917959 L720.000683,132.917959 L720.000907,131.917959 L722.000907,131.918408 L722.000683,132.918408 L721.997994,144.918407 L721.99777,145.918407 L719.99777,145.917959 L719.997994,144.917959 L719.999115,139.917959 L153.999776,139.791132 L153.998656,144.791132 L153.998431,145.791132 L151.998431,145.790684 L151.998656,144.790684 L152.001344,132.790684 L152.001569,131.790684 L154.001569,131.791133 L154.001344,132.791133 L154.000224,137.791132 Z" fill="#979797" fill-rule="nonzero"></path>
+        <path id="Line" d="M733.997725,137.788638 L987.997069,137.211367 L987.985705,132.21138 L987.983432,131.211382 L989.983427,131.206837 L989.9857,132.206834 L990.012973,144.206803 L990.015245,145.206801 L988.01525,145.211346 L988.012978,144.211349 L988.001614,139.211362 L734.00227,139.788633 L734.013634,144.78862 L734.015906,145.788618 L732.015912,145.793163 L732.013639,144.793166 L731.986366,132.793197 L731.984094,131.793199 L733.984088,131.788654 L733.986361,132.788651 L733.997725,137.788638 Z" fill="#979797" fill-rule="nonzero"></path>
+        <path id="Line" d="M1001.99772,136.788638 L1256.99707,136.209094 L1257.99706,136.206822 L1258.00161,138.206816 L1257.00161,138.209089 L1002.00227,138.788633 L1002.01363,143.78862 L1002.01591,144.788618 L1000.01591,144.793163 L1000.01364,143.793166 L999.986366,131.793197 L999.984094,130.793199 L1001.98409,130.788654 L1001.98636,131.788651 L1001.99772,136.788638 Z" fill="#979797" fill-rule="nonzero"></path>
+        <path id="Line" d="M358,120.5 L452,120.5 L452,115.5 L452,114.5 L454,114.5 L454,115.5 L454,127.5 L454,128.5 L452,128.5 L452,127.5 L452,122.5 L358,122.5 L358,127.5 L358,128.5 L356,128.5 L356,127.5 L356,115.5 L356,114.5 L358,114.5 L358,115.5 L358,120.5 Z" fill="#979797" fill-rule="nonzero"></path>
+        <text id="Inception" font-family="PingFangSC-Regular, PingFang SC" font-size="18" font-weight="normal" fill="#000000">
+            <tspan x="208" y="102"> Inception</tspan>
+        </text>
+        <text id="Interation-0" font-family="PingFangSC-Regular, PingFang SC" font-size="16" font-weight="normal" fill="#000000">
+            <tspan x="362" y="101">Interation 0</tspan>
+        </text>
+        <text id="Tech-Preparation-Per" font-family="PingFangSC-Semibold, PingFang SC" font-size="16" font-weight="500" fill="#000000">
+            <tspan x="476" y="124.290908">Tech Preparation Peroid</tspan>
+        </text>
+        <text id="Business-Replenishme" font-family="PingFangSC-Semibold, PingFang SC" font-size="16" font-weight="500" fill="#000000">
+            <tspan x="740" y="125.709092">Business Replenishment Period</tspan>
+        </text>
+        <text id="Growth-Optimization" font-family="PingFangSC-Semibold, PingFang SC" font-size="16" font-weight="500" fill="#000000">
+            <tspan x="1022" y="121">Growth Optimization Period</tspan>
+        </text>
+        <rect id="Rectangle" fill="#D8D8D8" x="990" y="37" width="63" height="16"></rect>
+        <rect id="Rectangle" fill="#50E3C2" x="1058" y="37" width="63" height="16"></rect>
+        <rect id="Rectangle" fill="#4A90E2" x="1126" y="37" width="63" height="16"></rect>
+        <rect id="Rectangle" fill="#D0021B" x="1194" y="37" width="63" height="16"></rect>
+        <text id="IMPORANTANT" opacity="0.590053013" font-family="PingFangSC-Regular, PingFang SC" font-size="12" font-weight="normal" fill="#000000">
+            <tspan x="1166" y="76">IMPORANTANT</tspan>
+        </text>
+        <g id="开发速率-2" transform="translate(11.000000, 777.000000)" fill="#000000" font-family="PingFangSC-Regular, PingFang SC" font-size="18" font-weight="normal">
+            <text id="Story-Speed">
+                <tspan x="0" y="19">Story Speed</tspan>
+            </text>
+        </g>
+        <text id="1" font-family="PingFangSC-Regular, PingFang SC" font-size="12" font-weight="normal" fill="#000000">
+            <tspan x="990" y="23">1</tspan>
+        </text>
+        <text id="4" font-family="PingFangSC-Regular, PingFang SC" font-size="12" font-weight="normal" fill="#000000">
+            <tspan x="1249" y="23">4</tspan>
+        </text>
+        <g id="speed" transform="translate(318.000000, 752.000000)">
+            <path id="Line-2" d="M150.5,8.22 L405.499339,8.22 L405.499339,4.72 L405.499339,4.22 L406.499339,4.22 L406.499339,4.72 L406.499339,12.72 L406.499339,13.22 L405.499339,13.22 L405.499339,12.72 L405.499339,9.22 L150.5,9.22 L150.5,12.72 L150.5,13.22 L149.5,13.22 L149.5,12.72 L149.5,4.72 L149.5,4.22 L150.5,4.22 L150.5,4.72 L150.5,8.22 Z" fill="#7ED321" fill-rule="nonzero"></path>
+            <path id="Line-2" d="M418.5,8.22 L673.499339,8.22 L673.499339,4.72 L673.499339,4.22 L674.499339,4.22 L674.499339,4.72 L674.499339,12.72 L674.499339,13.22 L673.499339,13.22 L673.499339,12.72 L673.499339,9.22 L418.5,9.22 L418.5,12.72 L418.5,13.22 L417.5,13.22 L417.5,12.72 L417.5,4.72 L417.5,4.22 L418.5,4.22 L418.5,4.72 L418.5,8.22 Z" fill="#7ED321" fill-rule="nonzero"></path>
+            <path id="Line-2" d="M686.5,8.22 L941.499339,8.22 L941.499339,4.72 L941.499339,4.22 L942.499339,4.22 L942.499339,4.72 L942.499339,12.72 L942.499339,13.22 L941.499339,13.22 L941.499339,12.72 L941.499339,9.22 L686.5,9.22 L686.5,12.72 L686.5,13.22 L685.5,13.22 L685.5,12.72 L685.5,4.72 L685.5,4.22 L686.5,4.22 L686.5,4.72 L686.5,8.22 Z" fill="#7ED321" fill-rule="nonzero"></path>
+            <path id="Line-2" d="M632.5,80 L931.5,80 L931.5,76.5 L931.5,76 L932.5,76 L932.5,76.5 L932.5,84.5 L932.5,85 L931.5,85 L931.5,84.5 L931.5,81 L632.5,81 L632.5,84.5 L632.5,85 L631.5,85 L631.5,84.5 L631.5,76.5 L631.5,76 L632.5,76 L632.5,76.5 L632.5,80 Z" fill="#4A90E2" fill-rule="nonzero"></path>
+            <text id="&gt;-1" font-family="PingFangSC-Regular, PingFang SC" font-size="16" font-weight="normal" fill="#000000">
+                <tspan x="771" y="107">&gt; 1</tspan>
+            </text>
+            <path id="Line-2" d="M362.5,80 L617.499339,80 L617.499339,76.5 L617.499339,76 L618.499339,76 L618.499339,76.5 L618.499339,84.5 L618.499339,85 L617.499339,85 L617.499339,84.5 L617.499339,81 L362.5,81 L362.5,84.5 L362.5,85 L361.5,85 L361.5,84.5 L361.5,76.5 L361.5,76 L362.5,76 L362.5,76.5 L362.5,80 Z" fill="#7ED321" fill-rule="nonzero"></path>
+            <path id="Line-2" d="M149.5,80 L348.5,80 L348.5,76.5 L348.5,76 L349.5,76 L349.5,76.5 L349.5,84.5 L349.5,85 L348.5,85 L348.5,84.5 L348.5,81 L149.5,81 L149.5,84.5 L149.5,85 L148.5,85 L148.5,84.5 L148.5,76.5 L148.5,76 L149.5,76 L149.5,76.5 L149.5,80 Z" fill="#D0021B" fill-rule="nonzero"></path>
+            <path d="M0,45.36 L865.5,45.36" id="Line-3" stroke="#D8D8D8" stroke-width="2" stroke-linecap="square" stroke-dasharray="12"></path>
+            <text id="base" font-family="PingFangSC-Regular, PingFang SC" font-size="16" font-weight="normal" fill="#000000">
+                <tspan x="0" y="17.72">base</tspan>
+            </text>
+            <text id="actually" font-family="PingFangSC-Regular, PingFang SC" font-size="16" font-weight="normal" fill="#000000">
+                <tspan x="0" y="85">actually</tspan>
+            </text>
+            <text id="1" font-family="PingFangSC-Regular, PingFang SC" font-size="16" font-weight="normal" fill="#000000">
+                <tspan x="86" y="17">1</tspan>
+            </text>
+            <text id="0.8" font-family="PingFangSC-Regular, PingFang SC" font-size="16" font-weight="normal" fill="#000000">
+                <tspan x="86" y="85.72">0.8</tspan>
+            </text>
+        </g>
+        <path d="M350,164.5 L350,709.5" id="Line-5" stroke="#D8D8D8" stroke-linecap="square" stroke-dasharray="16"></path>
+        <path d="M459,165.5 L459,710.5" id="Line-5" stroke="#D8D8D8" stroke-linecap="square" stroke-dasharray="16"></path>
+        <path d="M726.999339,164.5 L726.999339,709.5" id="Line-5" stroke="#D8D8D8" stroke-linecap="square" stroke-dasharray="16"></path>
+        <path d="M995,155.5 L995,700.5" id="Line-5" stroke="#D8D8D8" stroke-linecap="square" stroke-dasharray="16"></path>
+        <text id="Risk-Management" font-family="PingFangSC-Regular, PingFang SC" font-size="14" font-weight="normal" fill="#000000">
+            <tspan x="374" y="245">Risk Management</tspan>
+        </text>
+        <path id="Line-4" d="M160.931185,228.514478 L872.002089,230.000002 L873.002087,230.002091 L872.997909,232.002087 L871.997911,231.999998 L160.927007,230.514474 C160.434691,233.905747 157.51184,236.507352 153.985376,236.499985 C150.119391,236.491908 146.991939,233.351361 147.000015,229.485376 C147.008092,225.619391 150.148639,222.491939 154.014624,222.500015 C157.541088,222.507383 160.453044,225.121178 160.931185,228.514478 Z M158.998622,229.381246 C158.935741,226.679395 156.728668,224.50569 154.010446,224.500011 C151.249028,224.494242 149.00578,226.728137 149.000011,229.489554 C148.994242,232.250972 151.228137,234.49422 153.989554,234.499989 C156.707776,234.505668 158.923913,232.341203 158.998082,229.639639 L158.998622,229.381246 Z" fill="#D0021B" fill-rule="nonzero"></path>
+        <path d="M872,231 L1257,231" id="Line-4" stroke="#4A90E2" stroke-width="2" stroke-linecap="square"></path>
+        <path id="Line-4" d="M157.923694,360.463158 L332.065668,359.536871 C332.532847,356.142043 335.436344,353.518857 338.962766,353.500099 C342.828705,353.479536 345.979337,356.596828 345.999901,360.462766 C346.020464,364.328705 342.903172,367.479337 339.037234,367.499901 C335.510811,367.518659 332.579573,364.926507 332.076306,361.536842 L157.934332,362.463129 C157.467153,365.857957 154.563656,368.481143 151.037234,368.499901 C147.171295,368.520464 144.020663,365.403172 144.000099,361.537234 C143.979536,357.671295 147.096828,354.520663 150.962766,354.500099 C154.489189,354.481341 157.420427,357.073493 157.923694,360.463158 Z" fill="#D0021B" fill-rule="nonzero"></path>
+        <text id="Architecture-Design" font-family="PingFangSC-Regular, PingFang SC" font-size="14" font-weight="normal" fill="#000000">
+            <tspan x="187" y="350">Architecture Design</tspan>
+        </text>
+        <path id="Line-4" d="M232.929111,325 L486.070889,325 C486.556119,321.607706 489.473528,319 493,319 C496.865993,319 500,322.134007 500,326 C500,329.865993 496.865993,333 493,333 C489.473528,333 486.556119,330.392294 486.070889,327 L232.929111,327 C232.443881,330.392294 229.526472,333 226,333 C222.134007,333 219,329.865993 219,326 C219,322.134007 222.134007,319 226,319 C229.526472,319 232.443881,321.607706 232.929111,325 Z" fill="#D0021B" fill-rule="nonzero"></path>
+        <text id="Cross-Functional-Req" font-family="PingFangSC-Regular, PingFang SC" font-size="14" font-weight="normal" fill="#000000">
+            <tspan x="240.999339" y="316.5">Cross Functional Requirements</tspan>
+        </text>
+        <path id="Line-4" d="M318.925364,252.474371 L1257.9963,249.000007 L1258.99629,248.996307 L1259.00369,250.996293 L1258.0037,250.999993 L318.932763,254.474357 C318.460088,257.868423 315.552346,260.486905 312.025898,260.499952 C308.159932,260.514255 305.014351,257.391865 305.000048,253.525898 C304.985745,249.659932 308.108135,246.514351 311.974102,246.500048 C315.500549,246.487001 318.427587,249.083895 318.925364,252.474371 Z M316.996452,253.310191 C316.896221,250.628444 314.685569,248.49003 311.981501,248.500034 C309.220096,248.510251 306.989818,250.757094 307.000034,253.518499 C307.010251,256.279904 309.257094,258.510182 312.018499,258.499966 C314.722566,258.489961 316.917335,256.335248 316.99772,253.652833 L316.996452,253.310191 Z" fill="#D0021B" fill-rule="nonzero"></path>
+        <text id="Influence" font-family="PingFangSC-Regular, PingFang SC" font-size="14" font-weight="normal" fill="#000000">
+            <tspan x="426" y="288">Influence</tspan>
+        </text>
+        <path id="Line-4" d="M418.929111,293 L1256.99934,293 L1257.99934,293 L1257.99934,295 L1256.99934,295 L418.929111,295 C418.443881,298.392294 415.526472,301 412,301 C408.134007,301 405,297.865993 405,294 C405,290.134007 408.134007,287 412,287 C415.526472,287 418.443881,289.607706 418.929111,293 Z M407,294 C407,296.761424 409.238576,299 412,299 C414.761424,299 417,296.761424 417,294 C417,291.238576 414.761424,289 412,289 C409.238576,289 407,291.238576 407,294 Z" fill="#D0021B" fill-rule="nonzero"></path>
+        <path id="Line-4" d="M613.929111,274.709092 L1256.99868,274.709092 L1257.99868,274.709092 L1257.99868,276.709092 L1256.99868,276.709092 L613.929111,276.709092 C613.443881,280.101386 610.526472,282.709092 607,282.709092 C603.134007,282.709092 600,279.575085 600,275.709092 C600,271.843098 603.134007,268.709092 607,268.709092 C610.526472,268.709092 613.443881,271.316798 613.929111,274.709092 Z M602,275.709092 C602,278.470515 604.238576,280.709092 607,280.709092 C609.761424,280.709092 612,278.470515 612,275.709092 C612,272.947668 609.761424,270.709092 607,270.709092 C604.238576,270.709092 602,272.947668 602,275.709092 Z" fill="#D0021B" fill-rule="nonzero"></path>
+        <text id="Stakeholder-Manageme" font-family="PingFangSC-Regular, PingFang SC" font-size="14" font-weight="normal" fill="#000000">
+            <tspan x="178" y="219">Stakeholder Management</tspan>
+        </text>
+        <path id="Line-4" d="M166.929111,10 L171.992705,10 L172.992705,10 L172.992705,12 L171.992705,12 L166.929111,12 C166.443881,15.3922941 163.526472,18 160,18 C156.134007,18 153,14.8659932 153,11 C153,7.13400675 156.134007,4 160,4 C163.526472,4 166.443881,6.60770586 166.929111,10 Z M155,11 C155,13.7614237 157.238576,16 160,16 C162.761424,16 165,13.7614237 165,11 C165,8.23857625 162.761424,6 160,6 C157.238576,6 155,8.23857625 155,11 Z" fill="#4A4A4A" fill-rule="nonzero"></path>
+        <path id="Line-4" d="M161,36 L171.992705,36 L172.992705,36 L172.992705,38 L171.992705,38 L161,38 L161,43 L161,44 L159,44 L159,43 L159,31 L159,30 L161,30 L161,31 L161,36 Z" fill="#4A4A4A" fill-rule="nonzero"></path>
+        <path id="Line-4" d="M166.929111,62.5 L171.992705,62.5 L172.992705,62.5 L172.992705,64.5 L171.992705,64.5 L166.929111,64.5 C166.443881,67.8922941 163.526472,70.5 160,70.5 C156.134007,70.5 153,67.3659932 153,63.5 C153,59.6340068 156.134007,56.5 160,56.5 C163.526472,56.5 166.443881,59.1077059 166.929111,62.5 Z" fill="#4A4A4A" fill-rule="nonzero"></path>
+        <path id="Line-4" d="M419,475.5 L705.070228,475.5 C705.555457,472.107706 708.472867,469.5 711.999339,469.5 C715.865332,469.5 718.999339,472.634007 718.999339,476.5 C718.999339,480.365993 715.865332,483.5 711.999339,483.5 C708.472867,483.5 705.555457,480.892294 705.070228,477.5 L419,477.5 L419,482.5 L419,483.5 L417,483.5 L417,482.5 L417,470.5 L417,469.5 L419,469.5 L419,470.5 L419,475.5 Z M716.999339,476.5 C716.999339,473.738576 714.760763,471.5 711.999339,471.5 C709.237915,471.5 706.999339,473.738576 706.999339,476.5 C706.999339,479.261424 709.237915,481.5 711.999339,481.5 C714.760763,481.5 716.999339,479.261424 716.999339,476.5 Z" fill="#4A90E2" fill-rule="nonzero"></path>
+        <path id="Line-4" d="M843.428119,363.5 L1256.99868,363.5 L1257.99868,363.5 L1257.99868,365.5 L1256.99868,365.5 L843.428119,365.5 C842.94289,368.892294 840.02548,371.5 836.499008,371.5 C832.633015,371.5 829.499008,368.365993 829.499008,364.5 C829.499008,360.634007 832.633015,357.5 836.499008,357.5 C840.02548,357.5 842.94289,360.107706 843.428119,363.5 Z M831.499008,364.5 C831.499008,367.261424 833.737585,369.5 836.499008,369.5 C839.260432,369.5 841.499008,367.261424 841.499008,364.5 C841.499008,361.738576 839.260432,359.5 836.499008,359.5 C833.737585,359.5 831.499008,361.738576 831.499008,364.5 Z" fill="#4A90E2" fill-rule="nonzero"></path>
+        <text id="Team-Growth-(non-pro" font-family="PingFangSC-Regular, PingFang SC" font-size="14" font-weight="normal" fill="#000000">
+            <tspan x="860.999339" y="357">Team Growth (non-project)</tspan>
+        </text>
+        <path id="Line-4" d="M384,457.5 L521,457.5 L521,452.5 L521,451.5 L523,451.5 L523,452.5 L523,464.5 L523,465.5 L521,465.5 L521,464.5 L521,459.5 L384,459.5 L384,464.5 L384,465.5 L382,465.5 L382,464.5 L382,452.5 L382,451.5 L384,451.5 L384,452.5 L384,457.5 Z" fill="#4A90E2" fill-rule="nonzero"></path>
+        <path id="Line-4" d="M286.929111,394.5 L375,394.5 L375,389.5 L375,388.5 L377,388.5 L377,389.5 L377,401.5 L377,402.5 L375,402.5 L375,401.5 L375,396.5 L286.929111,396.5 C286.443881,399.892294 283.526472,402.5 280,402.5 C276.134007,402.5 273,399.365993 273,395.5 C273,391.634007 276.134007,388.5 280,388.5 C283.526472,388.5 286.443881,391.107706 286.929111,394.5 Z" fill="#4A90E2" fill-rule="nonzero"></path>
+        <g id="Group" transform="translate(154.000000, 171.000000)" opacity="0.55124628">
+            <path id="Line-4" d="M7.92911114,1 L386,1 L387,1 L387,3 L386,3 L7.92911114,3 C7.44388148,6.39229414 4.52647191,9 1,9 C-2.86599325,9 -6,5.86599325 -6,2 C-6,-1.86599325 -2.86599325,-5 1,-5 C4.52647191,-5 7.44388148,-2.39229414 7.92911114,1 Z" fill="#BFC1BF" fill-rule="nonzero"></path>
+            <path d="M732.5,1 L1105,1.5" id="Line-4" stroke="#BFC1BF" stroke-width="2" stroke-linecap="square"></path>
+            <path d="M383,2 L525.999339,1.5" id="Line-4" stroke="#BFC1BF" stroke-width="2" stroke-linecap="square" stroke-dasharray="12"></path>
+            <path d="M501,1 L618,1" id="Line-4" stroke="#BFC1BF" stroke-width="2" stroke-linecap="square"></path>
+            <path d="M613,1 L755.999339,1" id="Line-4" stroke="#BFC1BF" stroke-width="2" stroke-linecap="square" stroke-dasharray="12"></path>
+        </g>
+        <path id="Line-4" d="M340.000543,159.500544 L1258.99988,160 L1259.99988,160.000544 L1259.9988,162.000543 L1258.9988,162 L339.999456,161.500543 L339.996739,166.500543 L339.996196,167.500542 L337.996196,167.499455 L337.996739,166.499456 L338.003261,154.499457 L338.003804,153.499458 L340.003804,153.500545 L340.003261,154.500544 L340.000543,159.500544 Z" fill="#BFC1BF" fill-rule="nonzero" opacity="0.55124628"></path>
+        <path id="Line-4" d="M349.929111,184.5 L1259,184.5 L1260,184.5 L1260,186.5 L1259,186.5 L349.929111,186.5 C349.443881,189.892294 346.526472,192.5 343,192.5 C339.134007,192.5 336,189.365993 336,185.5 C336,181.634007 339.134007,178.5 343,178.5 C346.526472,178.5 349.443881,181.107706 349.929111,184.5 Z M338,185.5 C338,188.261424 340.238576,190.5 343,190.5 C345.761424,190.5 348,188.261424 348,185.5 C348,182.738576 345.761424,180.5 343,180.5 C340.238576,180.5 338,182.738576 338,185.5 Z" fill="#BFC1BF" fill-rule="nonzero" opacity="0.55124628"></path>
+        <text id="Architecture" font-family="PingFangSC-Regular, PingFang SC" font-size="14" font-weight="normal" fill="#000000">
+            <tspan x="178" y="163">Architecture</tspan>
+        </text>
+        <text id="Developer" font-family="PingFangSC-Regular, PingFang SC" font-size="14" font-weight="normal" fill="#000000">
+            <tspan x="371" y="153">Developer</tspan>
+        </text>
+        <text id="Leadership" font-family="PingFangSC-Regular, PingFang SC" font-size="14" font-weight="normal" fill="#000000">
+            <tspan x="371" y="203">Leadership</tspan>
+        </text>
+        <path id="Line-4" d="M626.930677,333.010913 L1255.00091,334.000001 L1256.00091,334.001576 L1255.99776,336.001574 L1254.99776,335.999999 L626.927528,335.010911 C626.436956,338.402437 623.515444,341.005545 619.988976,340.999991 C616.122988,340.993903 612.993921,337.854965 613.000009,333.988976 C613.006097,330.122988 616.145035,326.993921 620.011024,327.000009 C623.537491,327.005562 626.45079,329.617859 626.930677,333.010913 Z M624.998934,333.895571 C624.94349,331.18592 622.731763,329.004296 620.007874,329.000006 C617.246454,328.995658 615.004355,331.230706 615.000006,333.992126 C614.995658,336.753546 617.230706,338.995645 619.992126,338.999994 C622.716015,339.004283 624.934603,336.829636 624.998581,334.120173 L624.998934,333.895571 Z" fill="#50E3C2" fill-rule="nonzero"></path>
+        <text id="Team-Culture-/-Tech" font-family="PingFangSC-Regular, PingFang SC" font-size="14" font-weight="normal" fill="#000000">
+            <tspan x="638.999339" y="329">Team Culture / Tech Vision</tspan>
+        </text>
+        <path id="Line-4" d="M452,433.5 L585.5,433.5 L585.5,428.5 L585.5,427.5 L587.5,427.5 L587.5,428.5 L587.5,440.5 L587.5,441.5 L585.5,441.5 L585.5,440.5 L585.5,435.5 L452,435.5 L452,440.5 L452,441.5 L450,441.5 L450,440.5 L450,428.5 L450,427.5 L452,427.5 L452,428.5 L452,433.5 Z" fill="#D0021B" fill-rule="nonzero"></path>
+        <path id="Line-4" d="M357,432.5 L445,432.5 L445,427.5 L445,426.5 L447,426.5 L447,427.5 L447,439.5 L447,440.5 L445,440.5 L445,439.5 L445,434.5 L357,434.5 L357,439.5 L357,440.5 L355,440.5 L355,439.5 L355,427.5 L355,426.5 L357,426.5 L357,427.5 L357,432.5 Z" fill="#D0021B" fill-rule="nonzero"></path>
+        <text id="Pattern-Code" font-family="PingFangSC-Regular, PingFang SC" font-size="14" font-weight="normal" fill="#000000">
+            <tspan x="474" y="421">Pattern Code</tspan>
+        </text>
+        <path id="Line-4" d="M436.929111,551.5 L555,551.5 L555,546.5 L555,545.5 L557,545.5 L557,546.5 L557,558.5 L557,559.5 L555,559.5 L555,558.5 L555,553.5 L436.929111,553.5 C436.443881,556.892294 433.526472,559.5 430,559.5 C426.134007,559.5 423,556.365993 423,552.5 C423,548.634007 426.134007,545.5 430,545.5 C433.526472,545.5 436.443881,548.107706 436.929111,551.5 Z" fill="#4A90E2" fill-rule="nonzero"></path>
+        <path id="Line-4" d="M431,580.5 L442,580.5 L443,580.5 L443,582.5 L442,582.5 L431,582.5 L431,587.5 L431,588.5 L429,588.5 L429,587.5 L429,575.5 L429,574.5 L431,574.5 L431,575.5 L431,580.5 Z M1258,582.5 L1246,582.5 L1245,582.5 L1245,580.5 L1246,580.5 L1258,580.5 L1258,575.5 L1258,574.5 L1260,574.5 L1260,575.5 L1260,587.5 L1260,588.5 L1258,588.5 L1258,587.5 L1258,582.5 Z M454,582.5 L453,582.5 L453,580.5 L454,580.5 L466,580.5 L467,580.5 L467,582.5 L466,582.5 L454,582.5 Z M478,582.5 L477,582.5 L477,580.5 L478,580.5 L490,580.5 L491,580.5 L491,582.5 L490,582.5 L478,582.5 Z M502,582.5 L501,582.5 L501,580.5 L502,580.5 L514,580.5 L515,580.5 L515,582.5 L514,582.5 L502,582.5 Z M526,582.5 L525,582.5 L525,580.5 L526,580.5 L538,580.5 L539,580.5 L539,582.5 L538,582.5 L526,582.5 Z M550,582.5 L549,582.5 L549,580.5 L550,580.5 L562,580.5 L563,580.5 L563,582.5 L562,582.5 L550,582.5 Z M574,582.5 L573,582.5 L573,580.5 L574,580.5 L586,580.5 L587,580.5 L587,582.5 L586,582.5 L574,582.5 Z M598,582.5 L597,582.5 L597,580.5 L598,580.5 L610,580.5 L611,580.5 L611,582.5 L610,582.5 L598,582.5 Z M622,582.5 L621,582.5 L621,580.5 L622,580.5 L634,580.5 L635,580.5 L635,582.5 L634,582.5 L622,582.5 Z M646,582.5 L645,582.5 L645,580.5 L646,580.5 L658,580.5 L659,580.5 L659,582.5 L658,582.5 L646,582.5 Z M670,582.5 L669,582.5 L669,580.5 L670,580.5 L682,580.5 L683,580.5 L683,582.5 L682,582.5 L670,582.5 Z M694,582.5 L693,582.5 L693,580.5 L694,580.5 L706,580.5 L707,580.5 L707,582.5 L706,582.5 L694,582.5 Z M718,582.5 L717,582.5 L717,580.5 L718,580.5 L730,580.5 L731,580.5 L731,582.5 L730,582.5 L718,582.5 Z M742,582.5 L741,582.5 L741,580.5 L742,580.5 L754,580.5 L755,580.5 L755,582.5 L754,582.5 L742,582.5 Z M766,582.5 L765,582.5 L765,580.5 L766,580.5 L778,580.5 L779,580.5 L779,582.5 L778,582.5 L766,582.5 Z M790,582.5 L789,582.5 L789,580.5 L790,580.5 L802,580.5 L803,580.5 L803,582.5 L802,582.5 L790,582.5 Z M814,582.5 L813,582.5 L813,580.5 L814,580.5 L826,580.5 L827,580.5 L827,582.5 L826,582.5 L814,582.5 Z M838,582.5 L837,582.5 L837,580.5 L838,580.5 L850,580.5 L851,580.5 L851,582.5 L850,582.5 L838,582.5 Z M862,582.5 L861,582.5 L861,580.5 L862,580.5 L874,580.5 L875,580.5 L875,582.5 L874,582.5 L862,582.5 Z M886,582.5 L885,582.5 L885,580.5 L886,580.5 L898,580.5 L899,580.5 L899,582.5 L898,582.5 L886,582.5 Z M910,582.5 L909,582.5 L909,580.5 L910,580.5 L922,580.5 L923,580.5 L923,582.5 L922,582.5 L910,582.5 Z M934,582.5 L933,582.5 L933,580.5 L934,580.5 L946,580.5 L947,580.5 L947,582.5 L946,582.5 L934,582.5 Z M958,582.5 L957,582.5 L957,580.5 L958,580.5 L970,580.5 L971,580.5 L971,582.5 L970,582.5 L958,582.5 Z M982,582.5 L981,582.5 L981,580.5 L982,580.5 L994,580.5 L995,580.5 L995,582.5 L994,582.5 L982,582.5 Z M1006,582.5 L1005,582.5 L1005,580.5 L1006,580.5 L1018,580.5 L1019,580.5 L1019,582.5 L1018,582.5 L1006,582.5 Z M1030,582.5 L1029,582.5 L1029,580.5 L1030,580.5 L1042,580.5 L1043,580.5 L1043,582.5 L1042,582.5 L1030,582.5 Z M1054,582.5 L1053,582.5 L1053,580.5 L1054,580.5 L1066,580.5 L1067,580.5 L1067,582.5 L1066,582.5 L1054,582.5 Z M1078,582.5 L1077,582.5 L1077,580.5 L1078,580.5 L1090,580.5 L1091,580.5 L1091,582.5 L1090,582.5 L1078,582.5 Z M1102,582.5 L1101,582.5 L1101,580.5 L1102,580.5 L1114,580.5 L1115,580.5 L1115,582.5 L1114,582.5 L1102,582.5 Z M1126,582.5 L1125,582.5 L1125,580.5 L1126,580.5 L1138,580.5 L1139,580.5 L1139,582.5 L1138,582.5 L1126,582.5 Z M1150,582.5 L1149,582.5 L1149,580.5 L1150,580.5 L1162,580.5 L1163,580.5 L1163,582.5 L1162,582.5 L1150,582.5 Z M1174,582.5 L1173,582.5 L1173,580.5 L1174,580.5 L1186,580.5 L1187,580.5 L1187,582.5 L1186,582.5 L1174,582.5 Z M1198,582.5 L1197,582.5 L1197,580.5 L1198,580.5 L1210,580.5 L1211,580.5 L1211,582.5 L1210,582.5 L1198,582.5 Z M1222,582.5 L1221,582.5 L1221,580.5 L1222,580.5 L1234,580.5 L1235,580.5 L1235,582.5 L1234,582.5 L1222,582.5 Z" fill="#D8D8D8" fill-rule="nonzero"></path>
+        <text id="Architecture-&amp;-Devel" font-family="PingFangSC-Regular, PingFang SC" font-size="18" font-weight="normal" fill="#000000">
+            <tspan x="12.4423388" y="443">Architecture</tspan>
+            <tspan x="56.9653388" y="468">&amp;</tspan>
+            <tspan x="21.8743388" y="493">Developer</tspan>
+        </text>
+        <text id="Path-To-Production" font-family="PingFangSC-Regular, PingFang SC" font-size="14" font-weight="normal" fill="#000000">
+            <tspan x="521" y="576">Path To Production</tspan>
+        </text>
+        <path id="Line-4" d="M668,554.5 L792,554.5 L792,549.5 L792,548.5 L794,548.5 L794,549.5 L794,561.5 L794,562.5 L792,562.5 L792,561.5 L792,556.5 L668,556.5 L668,561.5 L668,562.5 L666,562.5 L666,561.5 L666,549.5 L666,548.5 L668,548.5 L668,549.5 L668,554.5 Z" fill="#D0021B" fill-rule="nonzero"></path>
+        <path id="Line-4" d="M424.929111,506.5 L697.999339,506.5 L698.999339,506.5 L698.999339,508.5 L697.999339,508.5 L424.929111,508.5 C424.443881,511.892294 421.526472,514.5 418,514.5 C414.134007,514.5 411,511.365993 411,507.5 C411,503.634007 414.134007,500.5 418,500.5 C421.526472,500.5 424.443881,503.107706 424.929111,506.5 Z" fill="#D0021B" fill-rule="nonzero"></path>
+        <text id="Test-Strategy" font-family="PingFangSC-Regular, PingFang SC" font-size="14" font-weight="normal" fill="#000000">
+            <tspan x="506" y="499">Test Strategy</tspan>
+        </text>
+        <g id="Group-2" transform="translate(713.000000, 628.000000)">
+            <path id="Line-4" d="M6.92911114,0.5 L103,0.5 L104,0.5 L104,2.5 L103,2.5 L6.92911114,2.5 C6.44388148,5.89229414 3.52647191,8.5 1.42108547e-14,8.5 C-3.86599325,8.5 -7,5.36599325 -7,1.5 C-7,-2.36599325 -3.86599325,-5.5 1.42108547e-14,-5.5 C3.52647191,-5.5 6.44388148,-2.89229414 6.92911114,0.5 Z" fill="#9B9B9B" fill-rule="nonzero"></path>
+            <path d="M31,1.5 L135,1.5" id="Line-4" stroke="#50E3C2" stroke-width="2" fill="#D8D8D8" stroke-linecap="square"></path>
+            <path d="M116,1.5 L289,1.5" id="Line-4" stroke="#4A90E2" stroke-width="2" fill="#D8D8D8" stroke-linecap="square"></path>
+            <path d="M237,1.5 L543.998678,1.5" id="Line-4" stroke="#D0021B" stroke-width="2" fill="#D8D8D8" stroke-linecap="square"></path>
+        </g>
+        <text id="Tech-Debt" font-family="PingFangSC-Regular, PingFang SC" font-size="14" font-weight="normal" fill="#000000">
+            <tspan x="740" y="622">Tech Debt</tspan>
+        </text>
+        <text id="Deploy-Design" font-family="PingFangSC-Regular, PingFang SC" font-size="14" font-weight="normal" fill="#000000">
+            <tspan x="444" y="543">Deploy Design</tspan>
+        </text>
+        <path id="Line-4" d="M349.929111,651.5 L1257,651.5 L1257,646.5 L1257,645.5 L1259,645.5 L1259,646.5 L1259,658.5 L1259,659.5 L1257,659.5 L1257,658.5 L1257,653.5 L349.929111,653.5 C349.443881,656.892294 346.526472,659.5 343,659.5 C339.134007,659.5 336,656.365993 336,652.5 C336,648.634007 339.134007,645.5 343,645.5 C346.526472,645.5 349.443881,648.107706 349.929111,651.5 Z" fill="#4A90E2" fill-rule="nonzero"></path>
+        <text id="C4-Model" font-family="PingFangSC-Regular, PingFang SC" font-size="14" font-weight="normal" fill="#000000">
+            <tspan x="357" y="643"> C4 Model</tspan>
+        </text>
+        <text id="CI/CD-setup" font-family="PingFangSC-Regular, PingFang SC" font-size="14" font-weight="normal" fill="#000000">
+            <tspan x="400" y="452">CI/CD setup</tspan>
+        </text>
+        <text id="Stacks-Prepare" font-family="PingFangSC-Regular, PingFang SC" font-size="14" font-weight="normal" fill="#000000">
+            <tspan x="278" y="385">Stacks Prepare</tspan>
+        </text>
+        <text id="Tech-Training" font-family="PingFangSC-Regular, PingFang SC" font-size="14" font-weight="normal" fill="#000000">
+            <tspan x="526" y="467">Tech Training</tspan>
+        </text>
+        <text id="First-Deploy" font-family="PingFangSC-Regular, PingFang SC" font-size="14" font-weight="normal" fill="#000000">
+            <tspan x="690" y="547">First Deploy</tspan>
+        </text>
+        <path d="M1256.99868,735.209092 L156,735.209092" id="Line-5" stroke="#D8D8D8" stroke-linecap="square" stroke-dasharray="16"></path>
+        <g id="Group-3" transform="translate(204.000000, 706.000000)" fill="#7ED321" font-family="PingFangSC-Regular, PingFang SC" font-size="14" font-weight="normal">
+            <text id="Forming">
+                <tspan x="0" y="15">Forming</tspan>
+            </text>
+            <text id="Storming">
+                <tspan x="167" y="15">Storming</tspan>
+            </text>
+            <text id="Norming">
+                <tspan x="497" y="15">Norming</tspan>
+            </text>
+            <text id="Performing">
+                <tspan x="787" y="15">Performing</tspan>
+            </text>
+            <text id="Adjourning">
+                <tspan x="1041" y="15">Adjourning</tspan>
+            </text>
+        </g>
+        <text id="Leadership" font-family="PingFangSC-Regular, PingFang SC" font-size="14" font-weight="normal" fill="#000000">
+            <tspan x="186" y="15.5">Leadership</tspan>
+        </text>
+        <text id="Developer" font-family="PingFangSC-Regular, PingFang SC" font-size="14" font-weight="normal" fill="#000000">
+            <tspan x="184" y="41">Developer</tspan>
+        </text>
+        <text id="Architecture" font-family="PingFangSC-Regular, PingFang SC" font-size="14" font-weight="normal" fill="#000000">
+            <tspan x="186" y="69">Architecture</tspan>
+        </text>
+        <text id="Role-Model" font-family="PingFangSC-Regular, PingFang SC" font-size="18" font-weight="normal" fill="#000000">
+            <tspan x="8" y="177">Role Model</tspan>
+        </text>
+        <text id="Motivate" font-family="PingFangSC-Regular, PingFang SC" font-size="14" font-weight="normal" fill="#000000">
+            <tspan x="633" y="270">Motivate</tspan>
+        </text>
+        <text id="Soft-Skills" font-family="PingFangSC-Regular, PingFang SC" font-size="18" font-weight="normal" fill="#000000">
+            <tspan x="8" y="273">Soft Skills</tspan>
+        </text>
+        <text id="Documentation" font-family="PingFangSC-Regular, PingFang SC" font-size="18" font-weight="normal" fill="#000000">
+            <tspan x="0.158" y="653">Documentation</tspan>
+        </text>
+    </g>
+</svg>
