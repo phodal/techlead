@@ -35,6 +35,19 @@
 
 **Quality**
 
+ - Code quality analysis
+ - Continuous integration
+ - Exploratory testing
+ - Infrastructure testing
+ - Mobile automated testing
+ - Performance and load testing
+ - Quality strategy
+ - Security testing
+ - Test Automation
+ - Test data management
+
+Exmples
+
  - Code Review
  - Unit Test/API Test/Layered Auto Testing
  - Tech Debt
