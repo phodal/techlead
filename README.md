@@ -106,6 +106,10 @@ Tech Lead 可以是一个纯粹的技术岗位，有的则还要充当项目经�
 
 ![Flow](assets/flow.png)
 
+## 相关文章（中文）
+
+见：[Tech Lead 相关文章](articles/README.md)
+
 License
 ---
 
