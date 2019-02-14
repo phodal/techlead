@@ -22,3 +22,5 @@ https://medium.com/the-andela-way/agile-practices-of-effective-tech-leads-888c46
 
 https://blog.bloc.io/a-day-in-the-life-tech-lead/
 
+https://jasonroell.com/2015/10/13/what-makes-a-good-tech-lead/
+
