@@ -1,5 +1,7 @@
 # 好的 Tech Lead 在做些什么？
 
+原文链接：[What Does a Software Tech Lead Do?](http://allyouneedisbackend.com/blog/2018/08/03/what-does-a-tech-lead-do/)
+
 在软件开发组织层次结构中，Tech Lead 是一个相对较新的角色。当我第一次听到这个角色时，我的第一个想法是
 
 > 它是软件架构师 + 团队的领导者吗？
