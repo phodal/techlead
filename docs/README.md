@@ -2,5 +2,5 @@
 
 [Architecture Decision Record](adr/)
 
-[Business Model Canvas](bmc/)
+[Business Model Canvas](bmc/canvas.html)
 
