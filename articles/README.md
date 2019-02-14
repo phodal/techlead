@@ -28,3 +28,4 @@ https://jasonroell.com/2015/10/13/what-makes-a-good-tech-lead/
 
 https://abc.danch.me/5-signs-youre-a-tech-lead-congrats-4b89b6b9c071
 
+https://insimpleterms.blog/2017/08/07/the-tech-leads-new-project-checklist
