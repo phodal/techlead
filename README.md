@@ -106,9 +106,16 @@ Tech Lead 可以是一个纯粹的技术岗位，有的则还要充当项目经�
 
 ![Flow](assets/flow.png)
 
-## 相关文章（中文）
+## Related
 
-见：[Tech Lead 相关文章](articles/README.md)
+English: 
+
+ - [Awesome Leadership and Management](https://github.com/LappleApple/awesome-leading-and-managing)
+ - [Tech Leading](https://github.com/PeterCookDev/TechLeading)
+ - [Reading Lists](https://github.com/techleadworkshops/coaching/blob/master/reading-list.md)
+ - [Tech Leadership](https://github.com/icaroseara/tech-leadership)
+
+中文（Chinese）见：[Tech Lead 相关文章](articles/README.md)
 
 License
 ---
