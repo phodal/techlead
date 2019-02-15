@@ -15,7 +15,9 @@ Category:
 |--------|------------|---------|
 
 
-1. [成为优秀 Tech Lead 的 12 个提示](./12-tips-be-tl.md)
+1. [成为优秀 Tech Lead 的 12 个提示](./12-tips-be-tl)
+2. [好的 Tech Lead 在做些什么？](./what-tech-lead-do)
+3. 
 
 
 https://medium.com/myplanet-musings/tech-leads-what-are-they-good-for-165108411be
@@ -28,4 +30,5 @@ https://jasonroell.com/2015/10/13/what-makes-a-good-tech-lead/
 
 https://abc.danch.me/5-signs-youre-a-tech-lead-congrats-4b89b6b9c071
 
-https://insimpleterms.blog/2017/08/07/the-tech-leads-new-project-checklist
+https://insimpleterms.blog/the-tech-leads-new-project-checklist
+
