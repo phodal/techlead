@@ -26,3 +26,5 @@ TODOS:
  - [ ] https://abc.danch.me/5-signs-youre-a-tech-lead-congrats-4b89b6b9c071
  - [ ] https://insimpleterms.blog/the-tech-leads-new-project-checklist
  - [ ] https://medium.com/the-andela-way/the-briceicle-test-12-steps-to-better-technical-leadership-57e27356c4bb
+ - [ ] [Analyzing Requirements as a Tech Lead](http://www.zsoltnagy.eu/analyzing-requirements-as-a-tech-lead/)
+ - [ ] https://medium.com/@freddyyumba/contrasting-the-waterfall-model-agile-lean-and-devops-a95cd9acf58

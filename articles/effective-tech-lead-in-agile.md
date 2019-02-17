@@ -1,4 +1,4 @@
-# 高效 Tech Lead 的敏捷项目
+# 敏捷项目中的高效 Tech Lead 
 
 原文链接：[Agile Practices of Effective Tech Leads](https://medium.com/the-andela-way/agile-practices-of-effective-tech-leads-888c46eb1710)
 
