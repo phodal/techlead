@@ -11,12 +11,15 @@ Category:
 Related：[Lead Programmer](https://en.wikipedia.org/wiki/Lead_programmer)
 
 
+## Tech Lead Summary
+
 | English   | 中文翻译   |  Category   |
 |--------|------------|---------|
 | [Twelve tips to become an awesome Technical Lead](https://ordina-jworks.github.io/architecture/2017/12/22/Tech-Lead.html) | [成为优秀 Tech Lead 的 12 个提示](./12-tips-be-tl.md) | Main | 
 | [What Does a Software Tech Lead Do?](http://allyouneedisbackend.com/blog/2018/08/03/what-does-a-tech-lead-do/) | [好的 Tech Lead 在做些什么？](./what-tech-lead-do.md) | 
 | [Agile Practices of Effective Tech Leads](https://medium.com/the-andela-way/agile-practices-of-effective-tech-leads-888c46eb1710) | [敏捷项目中的高效 Tech Lead](./effective-tech-lead-in-agile.md) | Main | 
-|  [What Makes a Good Tech Lead?](https://jasonroell.com/2015/10/13/what-makes-a-good-tech-lead/)  | [怎样才是好的 Tech Lead（技术负责人）？](./what-make-a-good-tech-lead.md)| Main |
+| [What Makes a Good Tech Lead?](https://jasonroell.com/2015/10/13/what-makes-a-good-tech-lead/)  | [怎样才是好的 Tech Lead（技术负责人）？](./what-make-a-good-tech-lead.md)| Main |
+| [Tech Leads: What Are They Good For?](https://medium.com/myplanet-musings/tech-leads-what-are-they-good-for-165108411be) | [Tech Lead：他们有什么好处？](./tech-lead-good-for.md) | Option | 
 
 ## Articles List
 
@@ -32,6 +35,11 @@ Related：[Lead Programmer](https://en.wikipedia.org/wiki/Lead_programmer)
  - [ ] [11 Top Responsibilities and 10 Common Mistakes of a Technical Leader](https://www.coderhood.com/11-top-responsibilities-and-10-common-mistakes-of-a-technical-leader/)
  - [ ] [Technical leader – Roles and Responsibilities](https://www.weetechsolution.com/blog/technical-leader-roles-and-responsibilities)
  - [ ] [Responsibilities of a Lead Developer](http://blog.robbowley.net/responsibilities-of-a-lead-developer/)
+ - [ ] [We don't need a Tech Lead](http://vvgomes.com/we-dont-need-tech-leads/)
+
+## Technical, Skills, Architect
+
+ - [Who is Solution Architect: Processes, Role Description, Responsibilities, and Outcomes](https://www.altexsoft.com/blog/engineering/solution-architect-role/)
 
 ## Tech Lead JDs
 
