@@ -15,3 +15,8 @@ Focus on
 Tools
 
 [DACI](https://www.atlassian.com/team-playbook/plays/daci)
+
+
+## 是否需要 Tech Lead
+
+### Tech Lead Overload 问题
