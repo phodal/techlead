@@ -19,8 +19,10 @@ Related：[Lead Programmer](https://en.wikipedia.org/wiki/Lead_programmer)
 | [What Does a Software Tech Lead Do?](http://allyouneedisbackend.com/blog/2018/08/03/what-does-a-tech-lead-do/) | [好的 Tech Lead 在做些什么？](./what-tech-lead-do.md) | 
 | [Agile Practices of Effective Tech Leads](https://medium.com/the-andela-way/agile-practices-of-effective-tech-leads-888c46eb1710) | [敏捷项目中的高效 Tech Lead](./effective-tech-lead-in-agile.md) | Main | 
 | [What Makes a Good Tech Lead?](https://jasonroell.com/2015/10/13/what-makes-a-good-tech-lead/)  | [怎样才是好的 Tech Lead（技术负责人）？](./what-make-a-good-tech-lead.md)| Main |
-| [Tech Leads: What Are They Good For?](https://medium.com/myplanet-musings/tech-leads-what-are-they-good-for-165108411be) | [Tech Lead：他们有什么好处？](./tech-lead-good-for.md) | Option | 
-| [We don't need a Tech Lead](http://vvgomes.com/we-dont-need-tech-leads/) | [我们并不需要一个 Tech Lead](./dont-need-tech-lead.md) | Option | 
+| [Tech Leads: What Are They Good For?](https://medium.com/myplanet-musings/tech-leads-what-are-they-good-for-165108411be) | [Tech Lead：他们有什么好处？](./tech-lead-good-for.md) | Options | 
+| [We don't need a Tech Lead](http://vvgomes.com/we-dont-need-tech-leads/) | [我们并不需要一个 Tech Lead](./dont-need-tech-lead.md) | Options | 
+| [5 Signs You’re A Tech Lead — Congrats!](https://abc.danch.me/5-signs-youre-a-tech-lead-congrats-4b89b6b9c071) | [5 个标志表明你是 Tech Lead 了](./5-signs-be-tech-lead.md) | Options |
+
 
 
 ## Articles List
@@ -29,7 +31,7 @@ Related：[Lead Programmer](https://en.wikipedia.org/wiki/Lead_programmer)
  - [x] https://medium.com/the-andela-way/agile-practices-of-effective-tech-leads-888c46eb1710
  - [ ] https://blog.bloc.io/a-day-in-the-life-tech-lead/
  - [x] https://jasonroell.com/2015/10/13/what-makes-a-good-tech-lead/
- - [ ] https://abc.danch.me/5-signs-youre-a-tech-lead-congrats-4b89b6b9c071
+ - [x] [5 Signs You’re A Tech Lead — Congrats!](https://abc.danch.me/5-signs-youre-a-tech-lead-congrats-4b89b6b9c071)
  - [ ] https://insimpleterms.blog/the-tech-leads-new-project-checklist
  - [ ] https://medium.com/the-andela-way/the-briceicle-test-12-steps-to-better-technical-leadership-57e27356c4bb
  - [ ] [Analyzing Requirements as a Tech Lead](http://www.zsoltnagy.eu/analyzing-requirements-as-a-tech-lead/)
