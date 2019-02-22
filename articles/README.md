@@ -22,6 +22,7 @@ Related：[Lead Programmer](https://en.wikipedia.org/wiki/Lead_programmer)
 | [Tech Leads: What Are They Good For?](https://medium.com/myplanet-musings/tech-leads-what-are-they-good-for-165108411be) | [Tech Lead：他们有什么好处？](./tech-lead-good-for.md) | Options | 
 | [We don't need a Tech Lead](http://vvgomes.com/we-dont-need-tech-leads/) | [我们并不需要一个 Tech Lead](./dont-need-tech-lead.md) | Options | 
 | [5 Signs You’re A Tech Lead — Congrats!](https://abc.danch.me/5-signs-youre-a-tech-lead-congrats-4b89b6b9c071) | [5 个标志表明你是 Tech Lead 了](./5-signs-be-tech-lead.md) | Options |
+| [Responsibilities of a Lead Developer](http://blog.robbowley.net/responsibilities-of-a-lead-developer/) | [首席开发人员的责任](./lead-programmer-reponsiblities.md) | Defined |
 
 
 
@@ -38,7 +39,7 @@ Related：[Lead Programmer](https://en.wikipedia.org/wiki/Lead_programmer)
  - [ ] https://medium.com/@freddyyumba/contrasting-the-waterfall-model-agile-lean-and-devops-a95cd9acf58
  - [ ] [11 Top Responsibilities and 10 Common Mistakes of a Technical Leader](https://www.coderhood.com/11-top-responsibilities-and-10-common-mistakes-of-a-technical-leader/)
  - [ ] [Technical leader – Roles and Responsibilities](https://www.weetechsolution.com/blog/technical-leader-roles-and-responsibilities)
- - [ ] [Responsibilities of a Lead Developer](http://blog.robbowley.net/responsibilities-of-a-lead-developer/)
+ - [x] [Responsibilities of a Lead Developer](http://blog.robbowley.net/responsibilities-of-a-lead-developer/)
  - [x] [We don't need a Tech Lead](http://vvgomes.com/we-dont-need-tech-leads/)
  - [ ] [Talking Feature Leads](https://www.thekua.com/atwork/2012/07/talking-feature-leads/)
  - [ ] [You're a Champion](http://ryanogles.by/youre-a-champion/)
