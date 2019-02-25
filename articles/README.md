@@ -23,6 +23,7 @@ Related：[Lead Programmer](https://en.wikipedia.org/wiki/Lead_programmer)
 | [We don't need a Tech Lead](http://vvgomes.com/we-dont-need-tech-leads/) | [我们并不需要一个 Tech Lead](./dont-need-tech-lead.md) | Options | 
 | [5 Signs You’re A Tech Lead — Congrats!](https://abc.danch.me/5-signs-youre-a-tech-lead-congrats-4b89b6b9c071) | [5 个标志表明你是 Tech Lead 了](./5-signs-be-tech-lead.md) | Options |
 | [Responsibilities of a Lead Developer](http://blog.robbowley.net/responsibilities-of-a-lead-developer/) | [首席开发人员的责任](./lead-programmer-reponsiblities.md) | Defined |
+| [Technical leader – Roles and Responsibilities](https://www.weetechsolution.com/blog/technical-leader-roles-and-responsibilities) | [Tech Lead 的角色和责任](./tech-lead-role-responsibilities.md) | Responsibilities |
 
 
 
@@ -38,11 +39,19 @@ Related：[Lead Programmer](https://en.wikipedia.org/wiki/Lead_programmer)
  - [ ] [Analyzing Requirements as a Tech Lead](http://www.zsoltnagy.eu/analyzing-requirements-as-a-tech-lead/)
  - [ ] https://medium.com/@freddyyumba/contrasting-the-waterfall-model-agile-lean-and-devops-a95cd9acf58
  - [ ] [11 Top Responsibilities and 10 Common Mistakes of a Technical Leader](https://www.coderhood.com/11-top-responsibilities-and-10-common-mistakes-of-a-technical-leader/)
- - [ ] [Technical leader – Roles and Responsibilities](https://www.weetechsolution.com/blog/technical-leader-roles-and-responsibilities)
+ - [x] [Technical leader – Roles and Responsibilities](https://www.weetechsolution.com/blog/technical-leader-roles-and-responsibilities)
  - [x] [Responsibilities of a Lead Developer](http://blog.robbowley.net/responsibilities-of-a-lead-developer/)
  - [x] [We don't need a Tech Lead](http://vvgomes.com/we-dont-need-tech-leads/)
  - [ ] [Talking Feature Leads](https://www.thekua.com/atwork/2012/07/talking-feature-leads/)
  - [ ] [You're a Champion](http://ryanogles.by/youre-a-champion/)
+ - [ ] [Four Things I Wish I Knew When I Became a Tech Lead](https://product.hubspot.com/blog/four-things-i-wish-i-knew-when-i-became-a-tech-lead)
+ - [ ] [WHAT I WISH I KNEW AS A FIRST TIME TECH LEAD](https://2017.theleaddeveloper.com/blog/2017-03-01-what-i-wish-i-knew-as-a-first-time-tech-lead)
+ - [ ] [8 qualities of a great Technical Leader](https://www.monterail.com/blog/2015/8-qualities-of-a-great-technical-leader)
+
+## Hacker News && Quora
+
+ - [ ] [Ask HN: How to Be a Good Technical Lead?](https://news.ycombinator.com/item?id=10395046)
+ - [ ] [How do I become a great tech lead?](https://www.quora.com/How-do-I-become-a-great-tech-lead)
 
 ## Technical, Skills, Architect
 
