@@ -24,17 +24,18 @@ Related：[Lead Programmer](https://en.wikipedia.org/wiki/Lead_programmer)
 | [5 Signs You’re A Tech Lead — Congrats!](https://abc.danch.me/5-signs-youre-a-tech-lead-congrats-4b89b6b9c071) | [5 个标志表明你是 Tech Lead 了](./5-signs-be-tech-lead.md) | Options |
 | [Responsibilities of a Lead Developer](http://blog.robbowley.net/responsibilities-of-a-lead-developer/) | [首席开发人员的责任](./lead-programmer-reponsiblities.md) | Defined |
 | [Technical leader – Roles and Responsibilities](https://www.weetechsolution.com/blog/technical-leader-roles-and-responsibilities) | [Tech Lead 的角色和责任](./tech-lead-role-responsibilities.md) | Responsibilities |
+| [The Tech Lead’s New Project Checklist](https://insimpleterms.blog/the-tech-leads-new-project-checklist) | [Tech Lead 的新项目检查清单](./tech-lead-new-project-checklists.md) | Checklists | 
 
 
 
 ## Articles List
 
- - [ ] https://medium.com/myplanet-musings/tech-leads-what-are-they-good-for-165108411be
+ - [x] https://medium.com/myplanet-musings/tech-leads-what-are-they-good-for-165108411be
  - [x] https://medium.com/the-andela-way/agile-practices-of-effective-tech-leads-888c46eb1710
  - [ ] https://blog.bloc.io/a-day-in-the-life-tech-lead/
  - [x] https://jasonroell.com/2015/10/13/what-makes-a-good-tech-lead/
  - [x] [5 Signs You’re A Tech Lead — Congrats!](https://abc.danch.me/5-signs-youre-a-tech-lead-congrats-4b89b6b9c071)
- - [ ] https://insimpleterms.blog/the-tech-leads-new-project-checklist
+ - [x] [The Tech Lead’s New Project Checklist](https://insimpleterms.blog/the-tech-leads-new-project-checklist)
  - [ ] https://medium.com/the-andela-way/the-briceicle-test-12-steps-to-better-technical-leadership-57e27356c4bb
  - [ ] [Analyzing Requirements as a Tech Lead](http://www.zsoltnagy.eu/analyzing-requirements-as-a-tech-lead/)
  - [ ] https://medium.com/@freddyyumba/contrasting-the-waterfall-model-agile-lean-and-devops-a95cd9acf58
