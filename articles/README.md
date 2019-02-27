@@ -25,7 +25,7 @@ Related：[Lead Programmer](https://en.wikipedia.org/wiki/Lead_programmer)
 | [Responsibilities of a Lead Developer](http://blog.robbowley.net/responsibilities-of-a-lead-developer/) | [首席开发人员的责任](./lead-programmer-reponsiblities.md) | Defined |
 | [Technical leader – Roles and Responsibilities](https://www.weetechsolution.com/blog/technical-leader-roles-and-responsibilities) | [Tech Lead 的角色和责任](./tech-lead-role-responsibilities.md) | Responsibilities |
 | [The Tech Lead’s New Project Checklist](https://insimpleterms.blog/the-tech-leads-new-project-checklist) | [Tech Lead 的新项目检查清单](./tech-lead-new-project-checklists.md) | Checklists | 
-
+| [8 qualities of a great Technical Leader](https://www.monterail.com/blog/2015/8-qualities-of-a-great-technical-leader) | [好的 Tech Lead 应具有的 8 个品质](./tech-lead-8-qualities.md) | Checklists | 
 
 
 ## Articles List
@@ -47,7 +47,7 @@ Related：[Lead Programmer](https://en.wikipedia.org/wiki/Lead_programmer)
  - [ ] [You're a Champion](http://ryanogles.by/youre-a-champion/)
  - [ ] [Four Things I Wish I Knew When I Became a Tech Lead](https://product.hubspot.com/blog/four-things-i-wish-i-knew-when-i-became-a-tech-lead)
  - [ ] [WHAT I WISH I KNEW AS A FIRST TIME TECH LEAD](https://2017.theleaddeveloper.com/blog/2017-03-01-what-i-wish-i-knew-as-a-first-time-tech-lead)
- - [ ] [8 qualities of a great Technical Leader](https://www.monterail.com/blog/2015/8-qualities-of-a-great-technical-leader)
+ - [x] [8 qualities of a great Technical Leader](https://www.monterail.com/blog/2015/8-qualities-of-a-great-technical-leader)
 
 ## Hacker News && Quora
 
