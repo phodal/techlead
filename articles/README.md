@@ -48,6 +48,7 @@ Related：[Lead Programmer](https://en.wikipedia.org/wiki/Lead_programmer)
  - [ ] [Four Things I Wish I Knew When I Became a Tech Lead](https://product.hubspot.com/blog/four-things-i-wish-i-knew-when-i-became-a-tech-lead)
  - [ ] [WHAT I WISH I KNEW AS A FIRST TIME TECH LEAD](https://2017.theleaddeveloper.com/blog/2017-03-01-what-i-wish-i-knew-as-a-first-time-tech-lead)
  - [x] [8 qualities of a great Technical Leader](https://www.monterail.com/blog/2015/8-qualities-of-a-great-technical-leader)
+ - [x] [Becoming a Tech Lead: How I've Balanced Coding with Coaching](https://product.hubspot.com/blog/tech-lead-balancing-coaching-with-coding) | [成为 Tech Lead 时：我是如何平衡编码与教练](./tech-lead-balancing-coaching-with-coding.md) | Balance | 
 
 ## Hacker News && Quora
 
