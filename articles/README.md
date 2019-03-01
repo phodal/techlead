@@ -27,6 +27,8 @@ Related：[Lead Programmer](https://en.wikipedia.org/wiki/Lead_programmer)
 | [The Tech Lead’s New Project Checklist](https://insimpleterms.blog/the-tech-leads-new-project-checklist) | [Tech Lead 的新项目检查清单](./tech-lead-new-project-checklists.md) | Checklists | 
 | [8 qualities of a great Technical Leader](https://www.monterail.com/blog/2015/8-qualities-of-a-great-technical-leader) | [好的 Tech Lead 应具有的 8 个品质](./tech-lead-8-qualities.md) | Checklists | 
 | [Becoming a Tech Lead: How I've Balanced Coding with Coaching](https://product.hubspot.com/blog/tech-lead-balancing-coaching-with-coding) | [成为 Tech Lead 时：我是如何平衡编码与教练](./tech-lead-balancing-coaching-with-coding.md) | Balance | 
+| [Five pieces of advice for new technical leads](https://engineering.rallyhealth.com/technical-lead/leadership/new-leader/advice/new-role/tech-lead/2018/07/05/five-pieces-of-advice-for-new-technical-leads.html) | [给新 Tech Lead 的五个建议](./five-advice-for-new-tech-leads.md) | Tips |
+
 
 ## Articles List
 
@@ -52,7 +54,7 @@ Related：[Lead Programmer](https://en.wikipedia.org/wiki/Lead_programmer)
  - [ ] [My lessons learned while becoming a Tech Lead](https://medium.com/quintoandar-tech-blog/my-lessons-learned-while-becoming-a-tech-lead-cacb1fc4e69f)
  - [ ] [Four Challenges Every Software Tech Lead Faces](https://www.forbes.com/sites/forbestechcouncil/2018/09/28/four-challenges-every-software-tech-lead-faces/#62beb33441fc)
  - [ ] [10 Tips for Being a Good Tech Lead](https://habr.com/en/post/439492/)
- - [ ] [Five pieces of advice for new technical leads](https://engineering.rallyhealth.com/technical-lead/leadership/new-leader/advice/new-role/tech-lead/2018/07/05/five-pieces-of-advice-for-new-technical-leads.html)
+ - [x] [Five pieces of advice for new technical leads](https://engineering.rallyhealth.com/technical-lead/leadership/new-leader/advice/new-role/tech-lead/2018/07/05/five-pieces-of-advice-for-new-technical-leads.html)
  - [ ] [Project Team Roles at Atomic – The Tech Lead](https://spin.atomicobject.com/2018/08/22/tech-lead-role/)
  - [ ] [Tech Lead Survival Guide](https://medium.com/@ann_lewis/tech-lead-survival-guide-aeee065fe0f5) (TLDR)
 
