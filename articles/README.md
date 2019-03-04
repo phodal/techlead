@@ -28,7 +28,7 @@ Related：[Lead Programmer](https://en.wikipedia.org/wiki/Lead_programmer)
 | [8 qualities of a great Technical Leader](https://www.monterail.com/blog/2015/8-qualities-of-a-great-technical-leader) | [好的 Tech Lead 应具有的 8 个品质](./tech-lead-8-qualities.md) | Checklists | 
 | [Becoming a Tech Lead: How I've Balanced Coding with Coaching](https://product.hubspot.com/blog/tech-lead-balancing-coaching-with-coding) | [成为 Tech Lead 时：我是如何平衡编码与教练](./tech-lead-balancing-coaching-with-coding.md) | Balance | 
 | [Five pieces of advice for new technical leads](https://engineering.rallyhealth.com/technical-lead/leadership/new-leader/advice/new-role/tech-lead/2018/07/05/five-pieces-of-advice-for-new-technical-leads.html) | [给新 Tech Lead 的五个建议](./five-advice-for-new-tech-leads.md) | Tips |
-
+| [Four Challenges Every Software Tech Lead Faces](https://www.forbes.com/sites/forbestechcouncil/2018/09/28/four-challenges-every-software-tech-lead-faces/) | [每个 Tech Lead 面临的四个挑战](./tech-lead-4-challenges.md) | Tips | 
 
 ## Articles List
 
@@ -52,7 +52,7 @@ Related：[Lead Programmer](https://en.wikipedia.org/wiki/Lead_programmer)
  - [x] [8 qualities of a great Technical Leader](https://www.monterail.com/blog/2015/8-qualities-of-a-great-technical-leader)
  - [x] [Becoming a Tech Lead: How I've Balanced Coding with Coaching](https://product.hubspot.com/blog/tech-lead-balancing-coaching-with-coding)
  - [ ] [My lessons learned while becoming a Tech Lead](https://medium.com/quintoandar-tech-blog/my-lessons-learned-while-becoming-a-tech-lead-cacb1fc4e69f)
- - [ ] [Four Challenges Every Software Tech Lead Faces](https://www.forbes.com/sites/forbestechcouncil/2018/09/28/four-challenges-every-software-tech-lead-faces/#62beb33441fc)
+ - [x] [Four Challenges Every Software Tech Lead Faces](https://www.forbes.com/sites/forbestechcouncil/2018/09/28/four-challenges-every-software-tech-lead-faces/)
  - [ ] [10 Tips for Being a Good Tech Lead](https://habr.com/en/post/439492/)
  - [x] [Five pieces of advice for new technical leads](https://engineering.rallyhealth.com/technical-lead/leadership/new-leader/advice/new-role/tech-lead/2018/07/05/five-pieces-of-advice-for-new-technical-leads.html)
  - [ ] [Project Team Roles at Atomic – The Tech Lead](https://spin.atomicobject.com/2018/08/22/tech-lead-role/)
