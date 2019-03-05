@@ -29,6 +29,7 @@ Related：[Lead Programmer](https://en.wikipedia.org/wiki/Lead_programmer)
 | [Becoming a Tech Lead: How I've Balanced Coding with Coaching](https://product.hubspot.com/blog/tech-lead-balancing-coaching-with-coding) | [成为 Tech Lead 时：我是如何平衡编码与教练](./tech-lead-balancing-coaching-with-coding.md) | Balance | 
 | [Five pieces of advice for new technical leads](https://engineering.rallyhealth.com/technical-lead/leadership/new-leader/advice/new-role/tech-lead/2018/07/05/five-pieces-of-advice-for-new-technical-leads.html) | [给新 Tech Lead 的五个建议](./five-advice-for-new-tech-leads.md) | Tips |
 | [Four Challenges Every Software Tech Lead Faces](https://www.forbes.com/sites/forbestechcouncil/2018/09/28/four-challenges-every-software-tech-lead-faces/) | [每个 Tech Lead 面临的四个挑战](./tech-lead-4-challenges.md) | Tips | 
+| [My lessons learned while becoming a Tech Lead](https://medium.com/quintoandar-tech-blog/my-lessons-learned-while-becoming-a-tech-lead-cacb1fc4e69f) | [成为 Tech Lead 过程中吸取的教训](./being-tech-lead-lesson.md)
 
 ## Articles List
 
@@ -57,6 +58,11 @@ Related：[Lead Programmer](https://en.wikipedia.org/wiki/Lead_programmer)
  - [x] [Five pieces of advice for new technical leads](https://engineering.rallyhealth.com/technical-lead/leadership/new-leader/advice/new-role/tech-lead/2018/07/05/five-pieces-of-advice-for-new-technical-leads.html)
  - [ ] [Project Team Roles at Atomic – The Tech Lead](https://spin.atomicobject.com/2018/08/22/tech-lead-role/)
  - [ ] [Tech Lead Survival Guide](https://medium.com/@ann_lewis/tech-lead-survival-guide-aeee065fe0f5) (TLDR)
+ - [ ] [No Tech Lead](https://adamralph.com/2014/03/15/no-tech-lead/)
+ - [ ] [Good Tech Lead, Bad Tech Lead](https://medium.com/swlh/good-tech-lead-bad-tech-lead-948b2b806d86)
+ - [ ] [What Does a Software Tech Lead Do?](http://allyouneedisbackend.com/blog/2018/08/03/what-does-a-tech-lead-do/)
+ - [ ] [Tech Lead or no Tech Lead](https://www.nikosraptis.com/single-post/2017/01/21/Tech-Lead-or-no-Tech-Lead)
+ - [ ] [What does a tech lead do?](https://www.bitlog.com/2017/10/12/what-does-a-tech-lead-do/)
 
 ## Hacker News && Quora
 
