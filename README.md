@@ -72,6 +72,12 @@ Tech Lead 可以是一个纯粹的技术岗位，有的则还要充当项目经�
 
 ![Screenshot](http://phodal.github.io/techstack/screenshot.jpg)
 
+### [New Project Checklist](https://github.com/phodal/new-project-checklist) - https://github.com/phodal/new-project-checklist
+
+Rating: https://github.com/phodal/new-project-checklist
+
+Checklist: TBD
+
 ## Leadership Theory
 
 ### Motivation: CHAMPFROGS Model
