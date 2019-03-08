@@ -32,6 +32,7 @@ Related：[Lead Programmer](https://en.wikipedia.org/wiki/Lead_programmer)
 | [My lessons learned while becoming a Tech Lead](https://medium.com/quintoandar-tech-blog/my-lessons-learned-while-becoming-a-tech-lead-cacb1fc4e69f) | [成为 Tech Lead 过程中吸取的教训](./being-tech-lead-lesson.md) | Tips |
 | [https://www.nikosraptis.com/single-post/2017/01/21/Tech-Lead-or-no-Tech-Lead](https://www.nikosraptis.com/single-post/2017/01/21/Tech-Lead-or-no-Tech-Lead) | [要 Tech Lead 还是不要 Tech Lead ](./tech-lead-or-tech-lead.md) | Options |
 | [Good Tech Lead, Bad Tech Lead](https://medium.com/swlh/good-tech-lead-bad-tech-lead-948b2b806d86) | [好的 Tech Lead，糟糕的 Tech Lead](./good-tech-lead-bad-tech-lead.md) | Compare | 
+| [Four Things I Wish I Knew When I Became a Tech Lead](https://product.hubspot.com/blog/four-things-i-wish-i-knew-when-i-became-a-tech-lead) | [当我成为 Tech Lead 时，我希望知道的四件事](./4-things-when-becoming-tech-lead.md) | Exp | 
 
 ## Articles List
 
@@ -50,11 +51,11 @@ Related：[Lead Programmer](https://en.wikipedia.org/wiki/Lead_programmer)
  - [x] [We don't need a Tech Lead](http://vvgomes.com/we-dont-need-tech-leads/)
  - [ ] [Talking Feature Leads](https://www.thekua.com/atwork/2012/07/talking-feature-leads/)
  - [ ] [You're a Champion](http://ryanogles.by/youre-a-champion/)
- - [ ] [Four Things I Wish I Knew When I Became a Tech Lead](https://product.hubspot.com/blog/four-things-i-wish-i-knew-when-i-became-a-tech-lead)
+ - [x] [Four Things I Wish I Knew When I Became a Tech Lead](https://product.hubspot.com/blog/four-things-i-wish-i-knew-when-i-became-a-tech-lead)
  - [ ] [WHAT I WISH I KNEW AS A FIRST TIME TECH LEAD](https://2017.theleaddeveloper.com/blog/2017-03-01-what-i-wish-i-knew-as-a-first-time-tech-lead)
  - [x] [8 qualities of a great Technical Leader](https://www.monterail.com/blog/2015/8-qualities-of-a-great-technical-leader)
  - [x] [Becoming a Tech Lead: How I've Balanced Coding with Coaching](https://product.hubspot.com/blog/tech-lead-balancing-coaching-with-coding)
- - [ ] [My lessons learned while becoming a Tech Lead](https://medium.com/quintoandar-tech-blog/my-lessons-learned-while-becoming-a-tech-lead-cacb1fc4e69f)
+ - [x] [My lessons learned while becoming a Tech Lead](https://medium.com/quintoandar-tech-blog/my-lessons-learned-while-becoming-a-tech-lead-cacb1fc4e69f)
  - [x] [Four Challenges Every Software Tech Lead Faces](https://www.forbes.com/sites/forbestechcouncil/2018/09/28/four-challenges-every-software-tech-lead-faces/)
  - [ ] [10 Tips for Being a Good Tech Lead](https://habr.com/en/post/439492/)
  - [x] [Five pieces of advice for new technical leads](https://engineering.rallyhealth.com/technical-lead/leadership/new-leader/advice/new-role/tech-lead/2018/07/05/five-pieces-of-advice-for-new-technical-leads.html)
@@ -65,6 +66,7 @@ Related：[Lead Programmer](https://en.wikipedia.org/wiki/Lead_programmer)
  - [ ] [What Does a Software Tech Lead Do?](http://allyouneedisbackend.com/blog/2018/08/03/what-does-a-tech-lead-do/)
  - [x] [Tech Lead or no Tech Lead](https://www.nikosraptis.com/single-post/2017/01/21/Tech-Lead-or-no-Tech-Lead)
  - [ ] [What does a tech lead do?](https://www.bitlog.com/2017/10/12/what-does-a-tech-lead-do/)
+ - [ ] [What I believe is a triangle of success for Software Architects and Technical Leads](https://dev.to/ggonchar/what-i-believe-is-a-triangle-of-success-for-software-architects-and-technical-leads-2gek)
 
 ## Hacker News && Quora
 
