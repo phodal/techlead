@@ -74,7 +74,7 @@ Tech Lead 可以是一个纯粹的技术岗位，有的则还要充当项目经�
 
 ### [New Project Checklist](https://github.com/phodal/new-project-checklist) - https://github.com/phodal/new-project-checklist
 
-Rating: https://github.com/phodal/new-project-checklist
+![Screenshot](assets/new-project-checklist.jpg)
 
 Checklist: TBD
 

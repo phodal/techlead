@@ -67,6 +67,10 @@ Related：[Lead Programmer](https://en.wikipedia.org/wiki/Lead_programmer)
  - [x] [Tech Lead or no Tech Lead](https://www.nikosraptis.com/single-post/2017/01/21/Tech-Lead-or-no-Tech-Lead)
  - [ ] [What does a tech lead do?](https://www.bitlog.com/2017/10/12/what-does-a-tech-lead-do/)
  - [ ] [What I believe is a triangle of success for Software Architects and Technical Leads](https://dev.to/ggonchar/what-i-believe-is-a-triangle-of-success-for-software-architects-and-technical-leads-2gek)
+ - [ ] [What makes a great Tech Lead?](https://www.madetech.com/blog/what-makes-a-great-tech-lead)
+ - [ ] [What's awful about being a {software engineer, tech lead, manager}?](https://www.onebigfluke.com/2016/04/whats-awful-building-software.html)
+ - [ ] [Main Skills a Tech Leader Should Have](https://blog.makingsense.com/2017/02/main-skills-a-tech-leader-should-have/)
+ - [ ] [Tech lead roles: What makes a technical leader?](http://martinb3.io/tech-lead-role/)
 
 ## Hacker News && Quora
 
