@@ -1,5 +1,7 @@
 # 当我成为 Tech Lead 时，我希望知道的四件事
 
+原文链接：[Four Things I Wish I Knew When I Became a Tech Lead](https://product.hubspot.com/blog/four-things-i-wish-i-knew-when-i-became-a-tech-lead)
+
 多年前，我的一位导师向我讲述了领导力（应对变革）与管理（应对复杂性）之间的区别。技术主管需要同时兼顾两者：我们必须提出发展技术系统的愿景，为客户解决问题，并将解决方案从概念转向生产。虽然所有这些都在发生，但我们需要引导，管理和支持我们团队中的人员，以便他们始终能够成长。对于第一次当 Tech Lead 的人来说，这可能是一种令人生畏的广泛责任。我知道这是给我的。
 
 现在，作为一名高级的 Tech Lead，我在 HubSpot 上取得了一些成功。没有规则或指南可以帮助我在一夜之间掌握这个角色。但是当我的头衔第一次变成 Tech Lead 时，很多错误和'啊哈！'的时刻，让我意识到了许多我希望我知道的事情。这里有四个我认为成为领导者的关键。
