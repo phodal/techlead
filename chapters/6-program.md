@@ -29,11 +29,18 @@
 
 ### 设计模式 
 
-
 ### 架构模式
 
-pipe
-
+ - Layered pattern
+ - Client-server pattern
+ - Master-slave pattern
+ - Pipe-filter pattern
+ - Broker pattern
+ - Peer-to-peer pattern
+ - Event-bus pattern
+ - Model-view-controller pattern
+ - Blackboard pattern
+ - Interpreter pattern
 
 
 ## 规范
