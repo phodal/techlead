@@ -33,7 +33,8 @@ Related：[Lead Programmer](https://en.wikipedia.org/wiki/Lead_programmer)
 | [https://www.nikosraptis.com/single-post/2017/01/21/Tech-Lead-or-no-Tech-Lead](https://www.nikosraptis.com/single-post/2017/01/21/Tech-Lead-or-no-Tech-Lead) | [要 Tech Lead 还是不要 Tech Lead ](./tech-lead-or-tech-lead.md) | Options |
 | [Good Tech Lead, Bad Tech Lead](https://medium.com/swlh/good-tech-lead-bad-tech-lead-948b2b806d86) | [好的 Tech Lead，糟糕的 Tech Lead](./good-tech-lead-bad-tech-lead.md) | Compare | 
 | [Four Things I Wish I Knew When I Became a Tech Lead](https://product.hubspot.com/blog/four-things-i-wish-i-knew-when-i-became-a-tech-lead) | [当我成为 Tech Lead 时，我希望知道的四件事](./4-things-when-becoming-tech-lead.md) | Exp | 
-| [Main Skills a Tech Leader Should Have](https://blog.makingsense.com/2017/02/main-skills-a-tech-leader-should-have/) | [Tech Lead 应具备的主要技能](tech-lead-main-skills.md)
+| [Main Skills a Tech Leader Should Have](https://blog.makingsense.com/2017/02/main-skills-a-tech-leader-should-have/) | [Tech Lead 应具备的主要技能](tech-lead-main-skills.md) | Skills |
+| [What I believe is a triangle of success for Software Architects and Technical Leads](https://dev.to/ggonchar/what-i-believe-is-a-triangle-of-success-for-software-architects-and-technical-leads-2gek) | [我所相信软件架构师和技术领导者的成功三角](tech-lead-architecture-triangle.md) | Options | 
 
 ## Articles List
 
@@ -67,11 +68,12 @@ Related：[Lead Programmer](https://en.wikipedia.org/wiki/Lead_programmer)
  - [ ] [What Does a Software Tech Lead Do?](http://allyouneedisbackend.com/blog/2018/08/03/what-does-a-tech-lead-do/)
  - [x] [Tech Lead or no Tech Lead](https://www.nikosraptis.com/single-post/2017/01/21/Tech-Lead-or-no-Tech-Lead)
  - [ ] [What does a tech lead do?](https://www.bitlog.com/2017/10/12/what-does-a-tech-lead-do/)
- - [ ] [What I believe is a triangle of success for Software Architects and Technical Leads](https://dev.to/ggonchar/what-i-believe-is-a-triangle-of-success-for-software-architects-and-technical-leads-2gek)
+ - [x] [What I believe is a triangle of success for Software Architects and Technical Leads](https://dev.to/ggonchar/what-i-believe-is-a-triangle-of-success-for-software-architects-and-technical-leads-2gek)
  - [ ] [What makes a great Tech Lead?](https://www.madetech.com/blog/what-makes-a-great-tech-lead)
  - [ ] [What's awful about being a {software engineer, tech lead, manager}?](https://www.onebigfluke.com/2016/04/whats-awful-building-software.html)
  - [x] [Main Skills a Tech Leader Should Have](https://blog.makingsense.com/2017/02/main-skills-a-tech-leader-should-have/)
  - [ ] [Tech lead roles: What makes a technical leader?](http://martinb3.io/tech-lead-role/)
+ - [ ] [Software architects & autonomous teams](https://ebaytech.berlin/software-architects-and-autonomous-teams-328138202df1)
 
 ## Hacker News && Quora
 
