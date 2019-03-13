@@ -35,6 +35,7 @@ Related：[Lead Programmer](https://en.wikipedia.org/wiki/Lead_programmer)
 | [Four Things I Wish I Knew When I Became a Tech Lead](https://product.hubspot.com/blog/four-things-i-wish-i-knew-when-i-became-a-tech-lead) | [当我成为 Tech Lead 时，我希望知道的四件事](./4-things-when-becoming-tech-lead.md) | Exp | 
 | [Main Skills a Tech Leader Should Have](https://blog.makingsense.com/2017/02/main-skills-a-tech-leader-should-have/) | [Tech Lead 应具备的主要技能](tech-lead-main-skills.md) | Skills |
 | [What I believe is a triangle of success for Software Architects and Technical Leads](https://dev.to/ggonchar/what-i-believe-is-a-triangle-of-success-for-software-architects-and-technical-leads-2gek) | [我所相信软件架构师和技术领导者的成功三角](tech-lead-architecture-triangle.md) | Options | 
+| [Software architects & autonomous teams](https://ebaytech.berlin/software-architects-and-autonomous-teams-328138202df1) | [软件架构和自组织团队](software-architecture.md) | Compare |
 
 ## Articles List
 
