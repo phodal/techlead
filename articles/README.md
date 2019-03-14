@@ -76,6 +76,9 @@ Related：[Lead Programmer](https://en.wikipedia.org/wiki/Lead_programmer)
  - [ ] [Tech lead roles: What makes a technical leader?](http://martinb3.io/tech-lead-role/)
  - [ ] [Software architects & autonomous teams](https://ebaytech.berlin/software-architects-and-autonomous-teams-328138202df1)
  - [ ] [https://gist.github.com/ygrenzinger/14812a56b9221c9feca0b3621518635b](https://gist.github.com/ygrenzinger/14812a56b9221c9feca0b3621518635b)
+ - [ ] [How to keep your engineering culture while scaling your business](https://m.oursky.com/how-to-keep-your-engineering-culture-while-scaling-your-business-481820333392)
+ - [ ] [How to Build a Software Engineering Culture Where Everyone Can Thrive](https://medium.com/@ann_lewis/how-to-build-a-software-engineering-culture-where-everyone-can-thrive-e927bc52ea97)
+ - [ ] [9 Ways to Build a Great Engineering Culture](https://stormpath.com/blog/how-to-build-engineering-culture)
 
 ## Hacker News && Quora
 
