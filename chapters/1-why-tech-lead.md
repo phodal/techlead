@@ -1,6 +1,6 @@
 # Why Tech Lead
 
-# 要或者不要
+## 要或者不要
 
 
 不需要，你们根本并不需要 Tech Lead。给我一个你需要 Tech Lead 的理由
