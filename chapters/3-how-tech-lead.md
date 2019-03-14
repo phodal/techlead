@@ -1,5 +1,6 @@
 # 如何成为 Tech Lead
 
+![本章思维导图](images/ch3-mindset.jpg)
 
 ## 证明你自己
 

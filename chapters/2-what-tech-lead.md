@@ -1,5 +1,7 @@
 # 什么是 Tech Lead？
 
+![本章思维导图](images/ch2-mindset.jpg)
+
 ## 什么是 Tech Lead？
 
 ## Tech Lead 模型

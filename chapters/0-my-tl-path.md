@@ -1,5 +1,8 @@
 # 我的 Tech Lead 之路
 
+// TODO:
+
+![本章思维导图](images/ch0-mindset.jpg)
 
 ## 初期——当我是一个 Junior Dev
 

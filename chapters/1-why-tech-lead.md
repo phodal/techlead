@@ -1,4 +1,5 @@
 # Why Tech Lead
+![本章思维导图](images/ch1-mindset.jpg)
 
 ## 要或者不要
 

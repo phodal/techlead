@@ -1,5 +1,7 @@
 # Process
 
+![本章思维导图](images/ch4-mindset.jpg)
+
 ## Project Tech Setup Metting
 
 项目技术准备会议，聊聊每个人对于项目的期望。
