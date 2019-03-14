@@ -36,18 +36,18 @@ Related：[Lead Programmer](https://en.wikipedia.org/wiki/Lead_programmer)
 | [Main Skills a Tech Leader Should Have](https://blog.makingsense.com/2017/02/main-skills-a-tech-leader-should-have/) | [Tech Lead 应具备的主要技能](tech-lead-main-skills.md) | Skills |
 | [What I believe is a triangle of success for Software Architects and Technical Leads](https://dev.to/ggonchar/what-i-believe-is-a-triangle-of-success-for-software-architects-and-technical-leads-2gek) | [我所相信软件架构师和技术领导者的成功三角](tech-lead-architecture-triangle.md) | Options | 
 | [Software architects & autonomous teams](https://ebaytech.berlin/software-architects-and-autonomous-teams-328138202df1) | [软件架构和自组织团队](software-architecture.md) | Compare |
+| [Analyzing Requirements as a Tech Lead](http://www.zsoltnagy.eu/analyzing-requirements-as-a-tech-lead/) | [Tech Lead 需求分析](tech-lead-analyzing-requirements.md) | Model
 
 ## Articles List
 
  - [x] https://medium.com/myplanet-musings/tech-leads-what-are-they-good-for-165108411be
  - [x] https://medium.com/the-andela-way/agile-practices-of-effective-tech-leads-888c46eb1710
- - [ ] https://blog.bloc.io/a-day-in-the-life-tech-lead/
  - [x] https://jasonroell.com/2015/10/13/what-makes-a-good-tech-lead/
  - [x] [5 Signs You’re A Tech Lead — Congrats!](https://abc.danch.me/5-signs-youre-a-tech-lead-congrats-4b89b6b9c071)
  - [x] [The Tech Lead’s New Project Checklist](https://insimpleterms.blog/the-tech-leads-new-project-checklist)
  - [ ] https://medium.com/the-andela-way/the-briceicle-test-12-steps-to-better-technical-leadership-57e27356c4bb
  - [ ] [Analyzing Requirements as a Tech Lead](http://www.zsoltnagy.eu/analyzing-requirements-as-a-tech-lead/)
- - [ ] https://medium.com/@freddyyumba/contrasting-the-waterfall-model-agile-lean-and-devops-a95cd9acf58
+ - [ ] [Contrasting the Waterfall Model, Agile, Lean and DevOps](https://medium.com/@freddyyumba/contrasting-the-waterfall-model-agile-lean-and-devops-a95cd9acf58)
  - [ ] [11 Top Responsibilities and 10 Common Mistakes of a Technical Leader](https://www.coderhood.com/11-top-responsibilities-and-10-common-mistakes-of-a-technical-leader/)
  - [x] [Technical leader – Roles and Responsibilities](https://www.weetechsolution.com/blog/technical-leader-roles-and-responsibilities)
  - [x] [Responsibilities of a Lead Developer](http://blog.robbowley.net/responsibilities-of-a-lead-developer/)
