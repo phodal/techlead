@@ -79,6 +79,7 @@ Related：[Lead Programmer](https://en.wikipedia.org/wiki/Lead_programmer)
  - [ ] [How to keep your engineering culture while scaling your business](https://m.oursky.com/how-to-keep-your-engineering-culture-while-scaling-your-business-481820333392)
  - [ ] [How to Build a Software Engineering Culture Where Everyone Can Thrive](https://medium.com/@ann_lewis/how-to-build-a-software-engineering-culture-where-everyone-can-thrive-e927bc52ea97)
  - [ ] [9 Ways to Build a Great Engineering Culture](https://stormpath.com/blog/how-to-build-engineering-culture)
+ - [ ] [What It Takes To Be A Great Technical Leader](https://www.businessinsider.com/how-to-be-a-great-technical-leader-2013-6)
 
 ## Hacker News && Quora
 
