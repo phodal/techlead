@@ -36,7 +36,8 @@ Related：[Lead Programmer](https://en.wikipedia.org/wiki/Lead_programmer)
 | [Main Skills a Tech Leader Should Have](https://blog.makingsense.com/2017/02/main-skills-a-tech-leader-should-have/) | [Tech Lead 应具备的主要技能](tech-lead-main-skills.md) | Skills |
 | [What I believe is a triangle of success for Software Architects and Technical Leads](https://dev.to/ggonchar/what-i-believe-is-a-triangle-of-success-for-software-architects-and-technical-leads-2gek) | [我所相信软件架构师和技术领导者的成功三角](tech-lead-architecture-triangle.md) | Options | 
 | [Software architects & autonomous teams](https://ebaytech.berlin/software-architects-and-autonomous-teams-328138202df1) | [软件架构和自组织团队](software-architecture.md) | Compare |
-| [Analyzing Requirements as a Tech Lead](http://www.zsoltnagy.eu/analyzing-requirements-as-a-tech-lead/) | [Tech Lead 需求分析](tech-lead-analyzing-requirements.md) | Model
+| [Analyzing Requirements as a Tech Lead](http://www.zsoltnagy.eu/analyzing-requirements-as-a-tech-lead/) | [Tech Lead 需求分析](tech-lead-analyzing-requirements.md) | Model |
+| [How to Build a Software Engineering Culture Where Everyone Can Thrive](https://medium.com/@ann_lewis/how-to-build-a-software-engineering-culture-where-everyone-can-thrive-e927bc52ea97) | [如何建立一个每个人都能茁壮成长的软件工程文化](howto-build-thrived-culture.md) | Culture |
 
 ## Articles List
 
