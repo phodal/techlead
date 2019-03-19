@@ -39,6 +39,7 @@ Related：[Lead Programmer](https://en.wikipedia.org/wiki/Lead_programmer)
 | [Analyzing Requirements as a Tech Lead](http://www.zsoltnagy.eu/analyzing-requirements-as-a-tech-lead/) | [Tech Lead 需求分析](tech-lead-analyzing-requirements.md) | Model |
 | [How to Build a Software Engineering Culture Where Everyone Can Thrive](https://medium.com/@ann_lewis/how-to-build-a-software-engineering-culture-where-everyone-can-thrive-e927bc52ea97) | [如何建立一个每个人都能茁壮成长的软件工程文化](howto-build-thrived-culture.md) | Culture |
 | [What makes a great Tech Lead?](https://www.madetech.com/blog/what-makes-a-great-tech-lead) | [如何成为一个伟大的 Tech Lead？](make-great-tech-lead.md) | Options | 
+| [https://stormpath.com/blog/how-to-build-engineering-culture](https://stormpath.com/blog/how-to-build-engineering-culture) | [建设优秀工程文化的 9 种方法](great-culture.md) | Culture | 
 
 ## Articles List
 
@@ -79,7 +80,7 @@ Related：[Lead Programmer](https://en.wikipedia.org/wiki/Lead_programmer)
  - [ ] [Software architects & autonomous teams](https://ebaytech.berlin/software-architects-and-autonomous-teams-328138202df1)
  - [ ] [https://gist.github.com/ygrenzinger/14812a56b9221c9feca0b3621518635b](https://gist.github.com/ygrenzinger/14812a56b9221c9feca0b3621518635b)
  - [ ] [How to keep your engineering culture while scaling your business](https://m.oursky.com/how-to-keep-your-engineering-culture-while-scaling-your-business-481820333392)
- - [ ] [How to Build a Software Engineering Culture Where Everyone Can Thrive](https://medium.com/@ann_lewis/how-to-build-a-software-engineering-culture-where-everyone-can-thrive-e927bc52ea97)
+ - [x] [How to Build a Software Engineering Culture Where Everyone Can Thrive](https://medium.com/@ann_lewis/how-to-build-a-software-engineering-culture-where-everyone-can-thrive-e927bc52ea97)
  - [ ] [9 Ways to Build a Great Engineering Culture](https://stormpath.com/blog/how-to-build-engineering-culture)
  - [ ] [What It Takes To Be A Great Technical Leader](https://www.businessinsider.com/how-to-be-a-great-technical-leader-2013-6)
 
