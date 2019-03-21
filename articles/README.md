@@ -41,6 +41,7 @@ Related：[Lead Programmer](https://en.wikipedia.org/wiki/Lead_programmer)
 | [What makes a great Tech Lead?](https://www.madetech.com/blog/what-makes-a-great-tech-lead) | [如何成为一个伟大的 Tech Lead？](make-great-tech-lead.md) | Options | 
 | [https://stormpath.com/blog/how-to-build-engineering-culture](https://stormpath.com/blog/how-to-build-engineering-culture) | [建设优秀工程文化的 9 种方法](great-culture.md) | Culture | 
 | [How to keep your engineering culture while scaling your business](https://m.oursky.com/how-to-keep-your-engineering-culture-while-scaling-your-business-481820333392) | [如何在高速发展的同时，保持工程师文化](keep-culture-while-scaling.md) | Culture | 
+| [Tech Lead Survival Guide](https://medium.com/@ann_lewis/tech-lead-survival-guide-aeee065fe0f5) | [Tech Lead 生存指南](tech-lead-survival-guide.md) | Guide | 
 
 ## Articles List
 
@@ -70,7 +71,7 @@ Related：[Lead Programmer](https://en.wikipedia.org/wiki/Lead_programmer)
  - [ ] [Tech Lead Survival Guide](https://medium.com/@ann_lewis/tech-lead-survival-guide-aeee065fe0f5) (TLDR)
  - [ ] [No Tech Lead](https://adamralph.com/2014/03/15/no-tech-lead/)
  - [x] [Good Tech Lead, Bad Tech Lead](https://medium.com/swlh/good-tech-lead-bad-tech-lead-948b2b806d86)
- - [ ] [What Does a Software Tech Lead Do?](http://allyouneedisbackend.com/blog/2018/08/03/what-does-a-tech-lead-do/)
+ - [x] [What Does a Software Tech Lead Do?](http://allyouneedisbackend.com/blog/2018/08/03/what-does-a-tech-lead-do/)
  - [x] [Tech Lead or no Tech Lead](https://www.nikosraptis.com/single-post/2017/01/21/Tech-Lead-or-no-Tech-Lead)
  - [ ] [What does a tech lead do?](https://www.bitlog.com/2017/10/12/what-does-a-tech-lead-do/)
  - [x] [What I believe is a triangle of success for Software Architects and Technical Leads](https://dev.to/ggonchar/what-i-believe-is-a-triangle-of-success-for-software-architects-and-technical-leads-2gek)
@@ -78,7 +79,7 @@ Related：[Lead Programmer](https://en.wikipedia.org/wiki/Lead_programmer)
  - [ ] [What's awful about being a {software engineer, tech lead, manager}?](https://www.onebigfluke.com/2016/04/whats-awful-building-software.html)
  - [x] [Main Skills a Tech Leader Should Have](https://blog.makingsense.com/2017/02/main-skills-a-tech-leader-should-have/)
  - [ ] [Tech lead roles: What makes a technical leader?](http://martinb3.io/tech-lead-role/)
- - [ ] [Software architects & autonomous teams](https://ebaytech.berlin/software-architects-and-autonomous-teams-328138202df1)
+ - [x] [Software architects & autonomous teams](https://ebaytech.berlin/software-architects-and-autonomous-teams-328138202df1)
  - [ ] [https://gist.github.com/ygrenzinger/14812a56b9221c9feca0b3621518635b](https://gist.github.com/ygrenzinger/14812a56b9221c9feca0b3621518635b)
  - [x] [How to keep your engineering culture while scaling your business](https://m.oursky.com/how-to-keep-your-engineering-culture-while-scaling-your-business-481820333392)
  - [x] [How to Build a Software Engineering Culture Where Everyone Can Thrive](https://medium.com/@ann_lewis/how-to-build-a-software-engineering-culture-where-everyone-can-thrive-e927bc52ea97)

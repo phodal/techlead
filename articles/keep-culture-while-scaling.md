@@ -1,5 +1,7 @@
 # 如何在高速发展的同时，保持工程师文化
 
+原文链接：[How to keep your engineering culture while scaling your business](https://m.oursky.com/how-to-keep-your-engineering-culture-while-scaling-your-business-481820333392)
+
 一个成功的科技创业公司始于强大的公司文化。如果有一群人你特别想保持激励，那就是建立你的产品的人。
 
 强大的工程师文化不是创业界的乒乓球桌、免费午餐和休闲星期五的形象。建立产品的好处并不在于流程。对我们而言，工程师文化意味着积极的团队成员始终如一地创建和维护高质量。
