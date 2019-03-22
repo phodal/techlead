@@ -42,6 +42,7 @@ Related：[Lead Programmer](https://en.wikipedia.org/wiki/Lead_programmer)
 | [https://stormpath.com/blog/how-to-build-engineering-culture](https://stormpath.com/blog/how-to-build-engineering-culture) | [建设优秀工程文化的 9 种方法](great-culture.md) | Culture | 
 | [How to keep your engineering culture while scaling your business](https://m.oursky.com/how-to-keep-your-engineering-culture-while-scaling-your-business-481820333392) | [如何在高速发展的同时，保持工程师文化](keep-culture-while-scaling.md) | Culture | 
 | [Tech Lead Survival Guide](https://medium.com/@ann_lewis/tech-lead-survival-guide-aeee065fe0f5) | [Tech Lead 生存指南](tech-lead-survival-guide.md) | Guide | 
+| [10 Tips for Being a Good Tech Lead](https://habr.com/en/post/439492/) | [成为优秀技术主管的 10 个技巧](10-tip-good-tl.md) | TIP|
 
 ## Articles List
 
@@ -65,10 +66,10 @@ Related：[Lead Programmer](https://en.wikipedia.org/wiki/Lead_programmer)
  - [x] [Becoming a Tech Lead: How I've Balanced Coding with Coaching](https://product.hubspot.com/blog/tech-lead-balancing-coaching-with-coding)
  - [x] [My lessons learned while becoming a Tech Lead](https://medium.com/quintoandar-tech-blog/my-lessons-learned-while-becoming-a-tech-lead-cacb1fc4e69f)
  - [x] [Four Challenges Every Software Tech Lead Faces](https://www.forbes.com/sites/forbestechcouncil/2018/09/28/four-challenges-every-software-tech-lead-faces/)
- - [ ] [10 Tips for Being a Good Tech Lead](https://habr.com/en/post/439492/)
+ - [x] [10 Tips for Being a Good Tech Lead](https://habr.com/en/post/439492/)
  - [x] [Five pieces of advice for new technical leads](https://engineering.rallyhealth.com/technical-lead/leadership/new-leader/advice/new-role/tech-lead/2018/07/05/five-pieces-of-advice-for-new-technical-leads.html)
  - [ ] [Project Team Roles at Atomic – The Tech Lead](https://spin.atomicobject.com/2018/08/22/tech-lead-role/)
- - [ ] [Tech Lead Survival Guide](https://medium.com/@ann_lewis/tech-lead-survival-guide-aeee065fe0f5) (TLDR)
+ - [x] [Tech Lead Survival Guide](https://medium.com/@ann_lewis/tech-lead-survival-guide-aeee065fe0f5) (TLDR)
  - [ ] [No Tech Lead](https://adamralph.com/2014/03/15/no-tech-lead/)
  - [x] [Good Tech Lead, Bad Tech Lead](https://medium.com/swlh/good-tech-lead-bad-tech-lead-948b2b806d86)
  - [x] [What Does a Software Tech Lead Do?](http://allyouneedisbackend.com/blog/2018/08/03/what-does-a-tech-lead-do/)
