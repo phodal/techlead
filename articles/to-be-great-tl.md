@@ -1,5 +1,7 @@
 # 怎样成为优秀的 Tech Lead？
 
+原文链接：[What It Takes To Be A Great Technical Leader](https://www.businessinsider.com/how-to-be-a-great-technical-leader-2013-6)
+
 大多数成功的项目都有一名工程师负责推动项目的进展，同时确保自信地做出强有力的技术决策。通常，该人被称为 Tech Lead。
 他们通常不会管理人员，而是指导他们做最好的工作。
 
