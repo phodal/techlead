@@ -44,6 +44,7 @@ Related：[Lead Programmer](https://en.wikipedia.org/wiki/Lead_programmer)
 | [Tech Lead Survival Guide](https://medium.com/@ann_lewis/tech-lead-survival-guide-aeee065fe0f5) | [Tech Lead 生存指南](tech-lead-survival-guide.md) | Guide | 
 | [10 Tips for Being a Good Tech Lead](https://habr.com/en/post/439492/) | [成为优秀技术主管的 10 个技巧](10-tip-good-tl.md) | TIP|
 | [What does a tech lead do?](https://www.bitlog.com/2017/10/12/what-does-a-tech-lead-do/) | [Tech Lead 做些什么事？](tech-lead-do.md) | DO |
+| [What It Takes To Be A Great Technical Leader](https://www.businessinsider.com/how-to-be-a-great-technical-leader-2013-6) | [怎样成为优秀的 Tech Lead？](to-be-great-tl.md) | Tip | 
 
 ## Articles List
 
@@ -86,7 +87,7 @@ Related：[Lead Programmer](https://en.wikipedia.org/wiki/Lead_programmer)
  - [x] [How to keep your engineering culture while scaling your business](https://m.oursky.com/how-to-keep-your-engineering-culture-while-scaling-your-business-481820333392)
  - [x] [How to Build a Software Engineering Culture Where Everyone Can Thrive](https://medium.com/@ann_lewis/how-to-build-a-software-engineering-culture-where-everyone-can-thrive-e927bc52ea97)
  - [x] [9 Ways to Build a Great Engineering Culture](https://stormpath.com/blog/how-to-build-engineering-culture)
- - [ ] [What It Takes To Be A Great Technical Leader](https://www.businessinsider.com/how-to-be-a-great-technical-leader-2013-6)
+ - [x] [What It Takes To Be A Great Technical Leader](https://www.businessinsider.com/how-to-be-a-great-technical-leader-2013-6)
 
 ## Hacker News && Quora
 
