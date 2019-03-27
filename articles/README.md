@@ -45,6 +45,8 @@ Related：[Lead Programmer](https://en.wikipedia.org/wiki/Lead_programmer)
 | [10 Tips for Being a Good Tech Lead](https://habr.com/en/post/439492/) | [成为优秀技术主管的 10 个技巧](10-tip-good-tl.md) | TIP|
 | [What does a tech lead do?](https://www.bitlog.com/2017/10/12/what-does-a-tech-lead-do/) | [Tech Lead 做些什么事？](tech-lead-do.md) | DO |
 | [What It Takes To Be A Great Technical Leader](https://www.businessinsider.com/how-to-be-a-great-technical-leader-2013-6) | [怎样成为优秀的 Tech Lead？](to-be-great-tl.md) | Tip | 
+| [11 Top Responsibilities and 10 Common Mistakes of a Technical Leader](https://www.coderhood.com/11-top-responsibilities-and-10-common-mistakes-of-a-technical-leader/) | [Tech Lead 最重要的 11 项责任和 10 个常见错误](11-responsibilities-10-mistakes.md) | Tip |
+
 
 ## Articles List
 
@@ -56,7 +58,7 @@ Related：[Lead Programmer](https://en.wikipedia.org/wiki/Lead_programmer)
  - [ ] https://medium.com/the-andela-way/the-briceicle-test-12-steps-to-better-technical-leadership-57e27356c4bb
  - [x] [Analyzing Requirements as a Tech Lead](http://www.zsoltnagy.eu/analyzing-requirements-as-a-tech-lead/)
  - [ ] [Contrasting the Waterfall Model, Agile, Lean and DevOps](https://medium.com/@freddyyumba/contrasting-the-waterfall-model-agile-lean-and-devops-a95cd9acf58)
- - [ ] [11 Top Responsibilities and 10 Common Mistakes of a Technical Leader](https://www.coderhood.com/11-top-responsibilities-and-10-common-mistakes-of-a-technical-leader/)
+ - [x] [11 Top Responsibilities and 10 Common Mistakes of a Technical Leader](https://www.coderhood.com/11-top-responsibilities-and-10-common-mistakes-of-a-technical-leader/)
  - [x] [Technical leader – Roles and Responsibilities](https://www.weetechsolution.com/blog/technical-leader-roles-and-responsibilities)
  - [x] [Responsibilities of a Lead Developer](http://blog.robbowley.net/responsibilities-of-a-lead-developer/)
  - [x] [We don't need a Tech Lead](http://vvgomes.com/we-dont-need-tech-leads/)
@@ -76,7 +78,7 @@ Related：[Lead Programmer](https://en.wikipedia.org/wiki/Lead_programmer)
  - [x] [Good Tech Lead, Bad Tech Lead](https://medium.com/swlh/good-tech-lead-bad-tech-lead-948b2b806d86)
  - [x] [What Does a Software Tech Lead Do?](http://allyouneedisbackend.com/blog/2018/08/03/what-does-a-tech-lead-do/)
  - [x] [Tech Lead or no Tech Lead](https://www.nikosraptis.com/single-post/2017/01/21/Tech-Lead-or-no-Tech-Lead)
- - [ ] [What does a tech lead do?](https://www.bitlog.com/2017/10/12/what-does-a-tech-lead-do/)
+ - [x] [What does a tech lead do?](https://www.bitlog.com/2017/10/12/what-does-a-tech-lead-do/)
  - [x] [What I believe is a triangle of success for Software Architects and Technical Leads](https://dev.to/ggonchar/what-i-believe-is-a-triangle-of-success-for-software-architects-and-technical-leads-2gek)
  - [x] [What makes a great Tech Lead?](https://www.madetech.com/blog/what-makes-a-great-tech-lead)
  - [ ] [What's awful about being a {software engineer, tech lead, manager}?](https://www.onebigfluke.com/2016/04/whats-awful-building-software.html)
