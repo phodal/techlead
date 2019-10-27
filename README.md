@@ -68,6 +68,10 @@ Tech Lead 可以是一个纯粹的技术岗位，有的则还要充当项目经�
 
 ![Screenshot](https://phodal.github.io/path/docs/path-to-production.png)
 
+### [SkillTree](https://github.com/phodal/sherlock) - A SkillTree of Junior Developers 
+
+![Screenshot](assets/skilltree.png)
+
 ### [TechStack](https://github.com/phodal/techstack) - A Radar for Projects' Toolbox
 
 ![Screenshot](http://phodal.github.io/techstack/screenshot.jpg)
@@ -77,6 +81,10 @@ Tech Lead 可以是一个纯粹的技术岗位，有的则还要充当项目经�
 ![Screenshot](assets/new-project-checklist.jpg)
 
 Checklist: TBD
+
+### [SkillWheel](https://github.com/phodal/skillwheel) - A SkillWheel of Organzation's usage
+
+![Screenshot](assets/skill_wheels.png)
 
 ### 前端体系规划指南 - [https://github.com/phodal/fde](https://github.com/phodal/fde)
 
