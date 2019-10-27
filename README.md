@@ -86,6 +86,12 @@ Checklist: TBD
 
 ![Screenshot](assets/skill_wheels.png)
 
+### 后端体系规划指南 - [https://github.com/phodal/bde](https://github.com/phodal/bde)
+
+Architecture of backend development efficiency
+
+> Screenshot TBD
+
 ### 前端体系规划指南 - [https://github.com/phodal/fde](https://github.com/phodal/fde)
 
 Architecture of Frontend Development Efficiency
